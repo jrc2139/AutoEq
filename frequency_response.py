@@ -684,6 +684,29 @@ class FrequencyResponse:
                 s += f'Filter {i+1}: ON PK Fc {filt[0]:.0f} Hz Gain {filt[2]:.1f} dB Q {filt[1]:.2f}\n'
             f.write(s)
 
+    def write_rockbox_parametric_eq(self, file_path, filters, preamp=None):
+        """Writes Rockbox Parameteric eq settings to a file."""
+        file_path = os.path.abspath(file_path)
+
+        if preamp is None:
+            # Calculate preamp from the cascade frequency response
+            fr = np.zeros(self.frequency.shape)
+            for filt in filters:
+                a0, a1, a2, b0, b1, b2 = biquad.peaking(filt[0], filt[1], filt[2], fs=44100)
+                fr += biquad.digital_coeffs(self.frequency, 44100, a0, a1, a2, b0, b1, b2)
+            preamp = np.min([0.0, -(np.max(fr) + PREAMP_HEADROOM)])
+
+        with open(file_path, 'w', encoding='utf-8') as f:
+            s = f'eq enabled: on\neq precut: {round(abs(preamp), 1) * 10:.0f}\n'
+            for i, filt in enumerate(filters):
+                if i == 0:
+                    s += f'eq low shelf filter: {filt[0]:.0f}, {round(filt[1], 1) * 10:.0f}, {round(filt[2], 1) * 10:.0f}\n'
+                elif i == len(filters) - 1:
+                    s += f'eq high shelf filter: {filt[0]:.0f}, {round(filt[1], 1) * 10:.0f}, {round(filt[2], 1) * 10:.0f}\n'
+                else:
+                    s += f'eq peak filter {i}: {filt[0]:.0f}, {round(filt[1], 1) * 10:.0f}, {round(filt[2], 1) * 10:.0f}\n'
+            f.write(s)
+
     def write_rockbox_10_band_fixed_eq(self, file_path, filters, preamp=None):
         """Writes Rockbox 10 band eq settings to a file."""
         file_path = os.path.abspath(file_path)
@@ -1559,8 +1582,9 @@ class FrequencyResponse:
                 min_mean_error=False,
                 equalize=False,
                 parametric_eq=False,
+                rockbox_parametric_eq=False,
                 fixed_band_eq=False,
-                rockbox=False,
+                rockbox_ten_band_eq=False,
                 fc=None,
                 q=None,
                 ten_band_eq=None,
@@ -1585,7 +1609,9 @@ class FrequencyResponse:
                             accordingly. Useful for avoiding large bias caused by a narrow notch or peak at 1 kHz.
             equalize: Run equalization?
             parametric_eq: Optimize peaking filters for parametric eq?
+            rockbox_parametric_eq:parametric_eq: Optimize peaking filters for rockbox parametric eq?
             fixed_band_eq: Optimize peaking filters for fixed band (graphic) eq?
+            rockbox_ten_band_eq" Optimize peaking filters for fixed ten band rockbox eq?
             fc: List of center frequencies for fixed band eq
             q: List of Q values for fixed band eq
             ten_band_eq: Optimize filters for standard ten band eq?
@@ -1613,7 +1639,15 @@ class FrequencyResponse:
         if parametric_eq and not equalize:
             raise ValueError('equalize must be True when parametric_eq is True.')
 
-        if ten_band_eq:
+        if rockbox_parametric_eq and not equalize:
+            raise ValueError('equalize must be True when rockbox_parametric_eq is True.')
+
+        if rockbox_parametric_eq:
+            if max_filters is None:
+                """ default 10 max_filters if no max_filters provided  """
+                max_filters = [5, 5]
+
+        if ten_band_eq or rockbox_ten_band_eq:
             # Ten band eq is a shortcut for setting Fc and Q values to standard 10-band equalizer filters parameters
             fixed_band_eq = True
             fc = np.array([31.25, 62.5, 125, 250, 500, 1000, 2000, 4000, 8000, 16000], dtype='float32')
@@ -1635,11 +1669,13 @@ class FrequencyResponse:
         if fixed_band_eq and not equalize:
             raise ValueError('equalize must be True when fixed_band_eq or ten_band_eq is True.')
 
-        if rockbox and not ten_band_eq:
-            raise ValueError('ten_band_eq must be True when rockbox is True.')
+        if rockbox_ten_band_eq and not equalize:
+            raise ValueError('equalize must be True when rockbox_ten_band_eq is True.')
 
         if max_filters is not None and type(max_filters) != list:
             max_filters = [max_filters]
+            if rockbox_parametric_eq and [5, 5] != max_filters:
+                warnings.warn(f'using rockbox_parametric_eq has not been tested with --max_filters {max_filters}')
 
         # Interpolate to standard frequency vector
         self.interpolate()
@@ -1679,10 +1715,10 @@ class FrequencyResponse:
                 treble_max_gain=treble_max_gain,
                 treble_gain_k=treble_gain_k
             )
-            if parametric_eq:
+            if parametric_eq or rockbox_parametric_eq:
                 # Get the filters
                 peq_filters, n_peq_filters, peq_max_gains = self.optimize_parametric_eq(max_filters=max_filters, fs=fs)
-            if fixed_band_eq:
+            if fixed_band_eq or rockbox_ten_band_eq:
                 fbeq_filters, n_fbeq_filters, fbeq_max_gains = self.optimize_fixed_band_eq(fc=fc, q=q, fs=fs)
 
         return peq_filters, n_peq_filters, peq_max_gains, fbeq_filters, n_fbeq_filters, fbeq_max_gains

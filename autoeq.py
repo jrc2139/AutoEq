@@ -13,10 +13,10 @@ from frequency_response import FrequencyResponse
 
 
 def batch_processing(input_dir=None, output_dir=None, new_only=False, standardize_input=False, compensation=None,
-                     equalize=False, parametric_eq=False, fixed_band_eq=False, rockbox=False, fc=None, q=None,
-                     ten_band_eq=False, max_filters=None, convolution_eq=False, fs=DEFAULT_FS,
-                     bit_depth=DEFAULT_BIT_DEPTH, phase=DEFAULT_PHASE, f_res=DEFAULT_F_RES,
-                     bass_boost_gain=DEFAULT_BASS_BOOST_GAIN, bass_boost_fc=DEFAULT_BASS_BOOST_FC,
+                     equalize=False, parametric_eq=False, rockbox_parametric_eq=False, fixed_band_eq=False,
+                     rockbox_ten_band_eq=False, fc=None, q=None, ten_band_eq=False, max_filters=None,
+                     convolution_eq=False, fs=DEFAULT_FS, bit_depth=DEFAULT_BIT_DEPTH, phase=DEFAULT_PHASE,
+                     f_res=DEFAULT_F_RES, bass_boost_gain=DEFAULT_BASS_BOOST_GAIN, bass_boost_fc=DEFAULT_BASS_BOOST_FC,
                      bass_boost_q=DEFAULT_BASS_BOOST_Q, tilt=None, sound_signature=None, max_gain=DEFAULT_MAX_GAIN,
                      treble_f_lower=DEFAULT_TREBLE_F_LOWER, treble_f_upper=DEFAULT_TREBLE_F_UPPER,
                      treble_max_gain=DEFAULT_TREBLE_MAX_GAIN, treble_gain_k=DEFAULT_TREBLE_GAIN_K,
@@ -86,7 +86,9 @@ def batch_processing(input_dir=None, output_dir=None, new_only=False, standardiz
             min_mean_error=True,
             equalize=equalize,
             parametric_eq=parametric_eq,
+            rockbox_parametric_eq=rockbox_parametric_eq,
             fixed_band_eq=fixed_band_eq,
+            rockbox_ten_band_eq=rockbox_ten_band_eq,
             fc=fc,
             q=q,
             ten_band_eq=ten_band_eq,
@@ -118,6 +120,12 @@ def batch_processing(input_dir=None, output_dir=None, new_only=False, standardiz
                         output_file_path.replace('.csv', ' ParametricEQ.txt'), peq_filters,
                         preamp=-(peq_max_gains[-1] + PREAMP_HEADROOM))
 
+                if rockbox_parametric_eq:
+                    # Write fixed band eq settings to file
+                    fr.write_rockbox_10_band_fixed_eq(
+                        output_file_path.replace('.csv', ' RockboxParametricEQ.cfg'), peq_filters,
+                        preamp=-(peq_max_gains[-1] + PREAMP_HEADROOM))
+
                 # Write fixed band eq
                 if fixed_band_eq or ten_band_eq:
                     # Write fixed band eq settings to file
@@ -126,10 +134,10 @@ def batch_processing(input_dir=None, output_dir=None, new_only=False, standardiz
                         preamp=-(fbeq_max_gain + PREAMP_HEADROOM))
 
                 # Write 10 band fixed band eq to Rockbox .cfg file
-                if rockbox and ten_band_eq:
+                if rockbox_ten_band_eq:
                     # Write fixed band eq settings to file
                     fr.write_rockbox_10_band_fixed_eq(
-                        output_file_path.replace('.csv', ' RockboxEQ.cfg'), fbeq_filters,
+                        output_file_path.replace('.csv', ' RockboxFixedBandEQ.cfg'), fbeq_filters,
                         preamp=-(fbeq_max_gain + PREAMP_HEADROOM))
 
                 # Write impulse response as WAV
@@ -204,8 +212,11 @@ def cli_args():
                             help='Will produce parametric eq settings if this parameter exists, no value needed.')
     arg_parser.add_argument('--fixed_band_eq', action='store_true',
                             help='Will produce fixed band eq settings if this parameter exists, no value needed.')
-    arg_parser.add_argument('--rockbox', action='store_true',
+    arg_parser.add_argument('--rockbox_ten_band_eq', action='store_true',
                             help='Will produce a Rockbox .cfg file with 10 band eq settings if this parameter exists,'
+                            'no value needed.')
+    arg_parser.add_argument('--rockbox_parametric_eq', action='store_true',
+                            help='Will produce a Rockbox .cfg file with 10 filter parametric eq settings if this parameter exists,'
                             'no value needed.')
     arg_parser.add_argument('--fc', type=str, help='Comma separated list of center frequencies for fixed band eq.')
     arg_parser.add_argument('--q', type=str,
