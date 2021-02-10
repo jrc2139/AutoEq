@@ -461,6 +461,15 @@ equalizer settings for Sony WH-1000XM3 app:
 python autoeq.py --input_dir="measurements/oratory1990/data/onear/Sony WH-1000XM3" --output_dir="my_results/Sony WH-1000XM3 (app)" --compensation="compensation/harman_over-ear_2018_wo_bass.csv" --equalize --bass_boost=4.0 --fixed_band_eq --fc=400,1000,2500,6300,16000 --q=1.05
 ```
 
+#### Rockbox Equalizers
+There are two options for creating equalizer `.cfg` files to use with your [Rockbox](https://www.rockbox.org/) device: `rockbox_ten_band_eq` and `--rockbox_parametric_eq`.  The ten band equalizer creates a fixed band equalizer 
+
+```bash
+python autoeq.py --input_dir="measurements/oratory1990/data/onear/Sony WH-1000XM3" --output_dir="my_results/Sony WH-1000XM3 (app)" --compensation="compensation/harman_over-ear_2018_wo_bass.csv" --equalize --rockbox_ten_band_eq --q=1.1
+```
+
+
+
 #### Using Sound Signatures
 AutoEQ provides a way to play around with different sound signatures easily. The use-cases include making headphones
 deviate from the neutral target or making one headphone sound like another.
