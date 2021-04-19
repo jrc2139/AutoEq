@@ -3,8 +3,11 @@
 - [1Custom SA02](./harman_in-ear_2019v2/1Custom%20SA02)
 - [1Custom SA03](./harman_in-ear_2019v2/1Custom%20SA03)
 - [1Custom SA05](./harman_in-ear_2019v2/1Custom%20SA05)
+- [1MORE Dual Driver](./harman_in-ear_2019v2/1MORE%20Dual%20Driver)
 - [1MORE MK801](./gras_43ag-7_harman_over-ear_2018/1MORE%20MK801)
+- [1MORE Piston](./harman_in-ear_2019v2/1MORE%20Piston)
 - [1MORE Quad Driver](./harman_in-ear_2019v2/1MORE%20Quad%20Driver)
+- [1MORE Single Driver](./harman_in-ear_2019v2/1MORE%20Single%20Driver)
 - [1MORE Stylish](./harman_in-ear_2019v2/1MORE%20Stylish)
 - [1MORE Triple Driver](./harman_in-ear_2019v2/1MORE%20Triple%20Driver)
 - [64 Audio 1964 Ears V2](./harman_in-ear_2019v2/64%20Audio%201964%20Ears%20V2)
@@ -26,7 +29,6 @@
 - [64 Audio N8 (CIEM) (sample 3)](./harman_in-ear_2019v2/64%20Audio%20N8%20(CIEM)%20(sample%203))
 - [64 Audio N8 (CIEM) (sample 6)](./harman_in-ear_2019v2/64%20Audio%20N8%20(CIEM)%20(sample%206))
 - [64 Audio N8 (CIEM)](./harman_in-ear_2019v2/64%20Audio%20N8%20(CIEM))
-- [64 Audio N8 (CIEM, m15 Apex module)](./harman_in-ear_2019v2/64%20Audio%20N8%20(CIEM,%20m15%20Apex%20module))
 - [64 Audio N8 (CIEM, m20 Apex module)](./harman_in-ear_2019v2/64%20Audio%20N8%20(CIEM,%20m20%20Apex%20module))
 - [64 Audio N8 (dd disabled)](./harman_in-ear_2019v2/64%20Audio%20N8%20(dd%20disabled))
 - [64 Audio N8 (m15 Apex module) (CIEM) (sample 2)](./harman_in-ear_2019v2/64%20Audio%20N8%20(m15%20Apex%20module)%20(CIEM)%20(sample%202))
@@ -84,14 +86,22 @@
 - [AAW Nightingale](./harman_in-ear_2019v2/AAW%20Nightingale)
 - [AAW W500](./harman_in-ear_2019v2/AAW%20W500)
 - [AAW W900](./harman_in-ear_2019v2/AAW%20W900)
-- [Abyss AB-1266 Phi CC Lite](./ears-711_harman_over-ear_2018/Abyss%20AB-1266%20Phi%20CC%20Lite) ears-711
-- [Abyss Diana Phi](./ears-711_harman_over-ear_2018/Abyss%20Diana%20Phi) ears-711
+- [AAW x Custom Art Project 4+2 (bass filter)](./harman_in-ear_2019v2/AAW%20x%20Custom%20Art%20Project%204+2%20(bass%20filter))
+- [AAW x Custom Art Project 4+2 (norm filter)](./harman_in-ear_2019v2/AAW%20x%20Custom%20Art%20Project%204+2%20(norm%20filter))
+- [AAW x Custom Art Project 4+2 (Vokal filter)](./harman_in-ear_2019v2/AAW%20x%20Custom%20Art%20Project%204+2%20(Vokal%20filter))
+- [Abyss AB-1266 Phi CC Lite](./ears-711_harman_over-ear_2018/Abyss%20AB-1266%20Phi%20CC%20Lite) Ears-711
+- [Abyss AB-1266 Phi CC](./gras_43ag-7_harman_over-ear_2018/Abyss%20AB-1266%20Phi%20CC)
+- [Abyss AB-1266 Phi](./gras_43ag-7_harman_over-ear_2018/Abyss%20AB-1266%20Phi)
+- [Abyss Diana Phi](./ears-711_harman_over-ear_2018/Abyss%20Diana%20Phi) Ears-711
+- [Abyss Diana Phi](./gras_43ag-7_harman_over-ear_2018/Abyss%20Diana%20Phi)
+- [Abyss Diana V2](./gras_43ag-7_harman_over-ear_2018/Abyss%20Diana%20V2)
 - [Acoustic Research AR-H1](./gras_43ag-7_harman_over-ear_2018/Acoustic%20Research%20AR-H1)
 - [Acoustune HS1001](./harman_in-ear_2019v2/Acoustune%20HS1001)
 - [Acoustune HS1003](./harman_in-ear_2019v2/Acoustune%20HS1003)
 - [Acoustune HS1004 (sample 1)](./harman_in-ear_2019v2/Acoustune%20HS1004%20(sample%201))
 - [Acoustune HS1004 (sample 2)](./harman_in-ear_2019v2/Acoustune%20HS1004%20(sample%202))
 - [Acoustune HS1004](./harman_in-ear_2019v2/Acoustune%20HS1004)
+- [Acoustune HS1300](./harman_in-ear_2019v2/Acoustune%20HS1300)
 - [Acoustune HS1501 (sample 1)](./harman_in-ear_2019v2/Acoustune%20HS1501%20(sample%201))
 - [Acoustune HS1501 (sample 2)](./harman_in-ear_2019v2/Acoustune%20HS1501%20(sample%202))
 - [Acoustune HS1501](./harman_in-ear_2019v2/Acoustune%20HS1501)
@@ -136,6 +146,10 @@
 - [AKG N5005 (high)](./harman_in-ear_2019v2/AKG%20N5005%20(high))
 - [AKG N5005 (mid high)](./harman_in-ear_2019v2/AKG%20N5005%20(mid%20high))
 - [AKG N5005 (reference)](./harman_in-ear_2019v2/AKG%20N5005%20(reference))
+- [Alclair Electro](./harman_in-ear_2019v2/Alclair%20Electro)
+- [Alclair Studio3](./harman_in-ear_2019v2/Alclair%20Studio3)
+- [Alclair Studio4](./harman_in-ear_2019v2/Alclair%20Studio4)
+- [Alclair Versa](./harman_in-ear_2019v2/Alclair%20Versa)
 - [Alpha & Delta KS3](./harman_in-ear_2019v2/Alpha%20&%20Delta%20KS3)
 - [Ambient Acoustics AM16](./harman_in-ear_2019v2/Ambient%20Acoustics%20AM16)
 - [Ambient Acoustics AM24](./harman_in-ear_2019v2/Ambient%20Acoustics%20AM24)
@@ -145,6 +159,7 @@
 - [Ambient Acoustics AM7](./harman_in-ear_2019v2/Ambient%20Acoustics%20AM7)
 - [Anker Soundcore Liberty 2 Pro](./harman_in-ear_2019v2/Anker%20Soundcore%20Liberty%202%20Pro)
 - [Anthem Five E2 (CIEM)](./harman_in-ear_2019v2/Anthem%20Five%20E2%20(CIEM))
+- [Anthem Five E4 (CIEM)](./harman_in-ear_2019v2/Anthem%20Five%20E4%20(CIEM))
 - [Apple AirPods Max](./gras_43ag-7_harman_over-ear_2018/Apple%20AirPods%20Max)
 - [Apple AirPods Pro](./harman_in-ear_2019v2/Apple%20AirPods%20Pro)
 - [ARC Mira](./harman_in-ear_2019v2/ARC%20Mira)
@@ -162,12 +177,14 @@
 - [Aroma Audio Witch Girl Pro](./harman_in-ear_2019v2/Aroma%20Audio%20Witch%20Girl%20Pro)
 - [Aroma Audio Witch Girl S](./harman_in-ear_2019v2/Aroma%20Audio%20Witch%20Girl%20S)
 - [Aroma Audio Witch Girl W12](./harman_in-ear_2019v2/Aroma%20Audio%20Witch%20Girl%20W12)
+- [Aroma Audio Yao](./harman_in-ear_2019v2/Aroma%20Audio%20Yao)
 - [Astell & Kern Rosie (2 o’clock)](./harman_in-ear_2019v2/Astell%20&%20Kern%20Rosie%20(2%20o%E2%80%99clock))
 - [Astell & Kern Rosie (max)](./harman_in-ear_2019v2/Astell%20&%20Kern%20Rosie%20(max))
 - [Astell & Kern Rosie (min)](./harman_in-ear_2019v2/Astell%20&%20Kern%20Rosie%20(min))
 - [Astell & Kern T8iE Mk1 (sample 1)](./harman_in-ear_2019v2/Astell%20&%20Kern%20T8iE%20Mk1%20(sample%201))
 - [Astell & Kern T8iE Mk1 (sample 2)](./harman_in-ear_2019v2/Astell%20&%20Kern%20T8iE%20Mk1%20(sample%202))
 - [Astell & Kern T8iE Mk1](./harman_in-ear_2019v2/Astell%20&%20Kern%20T8iE%20Mk1)
+- [Astell & Kern T9iE](./harman_in-ear_2019v2/Astell%20&%20Kern%20T9iE)
 - [ASTRO Gaming A40 TR](./gras_43ag-7_harman_over-ear_2018/ASTRO%20Gaming%20A40%20TR)
 - [Astrotec Delphinus 5](./harman_in-ear_2019v2/Astrotec%20Delphinus%205)
 - [Astrotec Volans](./harman_in-ear_2019v2/Astrotec%20Volans)
@@ -177,23 +194,26 @@
 - [Audeze iSINE 10](./harman_in-ear_2019v2/Audeze%20iSINE%2010)
 - [Audeze iSINE 20 (Cipher cable)](./harman_in-ear_2019v2/Audeze%20iSINE%2020%20(Cipher%20cable))
 - [Audeze iSINE 20](./harman_in-ear_2019v2/Audeze%20iSINE%2020)
-- [Audeze LCD-1](./ears-711_harman_over-ear_2018/Audeze%20LCD-1) ears-711
+- [Audeze LCD-1](./ears-711_harman_over-ear_2018/Audeze%20LCD-1) Ears-711
 - [Audeze LCD-1](./gras_43ag-7_harman_over-ear_2018/Audeze%20LCD-1)
-- [Audeze LCD-2 (Dekoni fenestrated sheepskin earpads)](./ears-711_harman_over-ear_2018/Audeze%20LCD-2%20(Dekoni%20fenestrated%20sheepskin%20earpads)) ears-711
+- [Audeze LCD-2 (Dekoni fenestrated sheepskin earpads)](./ears-711_harman_over-ear_2018/Audeze%20LCD-2%20(Dekoni%20fenestrated%20sheepskin%20earpads)) Ears-711
 - [Audeze LCD-2 (Rosewood)](./gras_43ag-7_harman_over-ear_2018/Audeze%20LCD-2%20(Rosewood))
-- [Audeze LCD-2 Classic](./ears-711_harman_over-ear_2018/Audeze%20LCD-2%20Classic) ears-711
+- [Audeze LCD-2 Classic](./ears-711_harman_over-ear_2018/Audeze%20LCD-2%20Classic) Ears-711
 - [Audeze LCD-2 Classic](./gras_43ag-7_harman_over-ear_2018/Audeze%20LCD-2%20Classic)
-- [Audeze LCD-2 Closed Back](./ears-711_harman_over-ear_2018/Audeze%20LCD-2%20Closed%20Back) ears-711
+- [Audeze LCD-2 Closed Back](./ears-711_harman_over-ear_2018/Audeze%20LCD-2%20Closed%20Back) Ears-711
 - [Audeze LCD-2 Closed Back](./gras_43ag-7_harman_over-ear_2018/Audeze%20LCD-2%20Closed%20Back)
-- [Audeze LCD-24](./ears-711_harman_over-ear_2018/Audeze%20LCD-24) ears-711
+- [Audeze LCD-24](./ears-711_harman_over-ear_2018/Audeze%20LCD-24) Ears-711
+- [Audeze LCD-24](./gras_43ag-7_harman_over-ear_2018/Audeze%20LCD-24)
 - [Audeze LCD-3](./gras_43ag-7_harman_over-ear_2018/Audeze%20LCD-3)
-- [Audeze LCD-4](./ears-711_harman_over-ear_2018/Audeze%20LCD-4) ears-711
+- [Audeze LCD-4](./ears-711_harman_over-ear_2018/Audeze%20LCD-4) Ears-711
+- [Audeze LCD-4](./gras_43ag-7_harman_over-ear_2018/Audeze%20LCD-4)
+- [Audeze LCD-GX](./gras_43ag-7_harman_over-ear_2018/Audeze%20LCD-GX)
 - [Audeze LCD-i3 (Cipher bluetooth)](./harman_in-ear_2019v2/Audeze%20LCD-i3%20(Cipher%20bluetooth))
 - [Audeze LCD-i3](./harman_in-ear_2019v2/Audeze%20LCD-i3)
 - [Audeze LCD-i4](./harman_in-ear_2019v2/Audeze%20LCD-i4)
 - [Audeze LCD-MX4](./gras_43ag-7_harman_over-ear_2018/Audeze%20LCD-MX4)
 - [Audeze LCD-X (worn earpads) (sample 2)](./gras_43ag-7_harman_over-ear_2018/Audeze%20LCD-X%20(worn%20earpads)%20(sample%202))
-- [Audeze LCD-X](./ears-711_harman_over-ear_2018/Audeze%20LCD-X) ears-711
+- [Audeze LCD-X](./ears-711_harman_over-ear_2018/Audeze%20LCD-X) Ears-711
 - [Audeze LCD-X](./gras_43ag-7_harman_over-ear_2018/Audeze%20LCD-X)
 - [Audeze LCD-XC](./gras_43ag-7_harman_over-ear_2018/Audeze%20LCD-XC)
 - [Audeze Mobius (ballistics preset)](./gras_43ag-7_harman_over-ear_2018/Audeze%20Mobius%20(ballistics%20preset))
@@ -203,14 +223,14 @@
 - [Audeze Mobius (music preset)](./gras_43ag-7_harman_over-ear_2018/Audeze%20Mobius%20(music%20preset))
 - [Audeze Mobius (racing preset)](./gras_43ag-7_harman_over-ear_2018/Audeze%20Mobius%20(racing%20preset))
 - [Audeze Mobius (RPG preset)](./gras_43ag-7_harman_over-ear_2018/Audeze%20Mobius%20(RPG%20preset))
-- [Audeze MX-4](./ears-711_harman_over-ear_2018/Audeze%20MX-4) ears-711
+- [Audeze MX-4](./ears-711_harman_over-ear_2018/Audeze%20MX-4) Ears-711
 - [Audeze SINE DX](./gras_43ag-7_harman_over-ear_2018/Audeze%20SINE%20DX)
 - [Audio Genetic AG2](./harman_in-ear_2019v2/Audio%20Genetic%20AG2)
 - [Audio-Technica ATH-A1000Z](./gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-A1000Z)
 - [Audio-Technica ATH-A2000X](./gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-A2000X)
 - [Audio-Technica ATH-A2000Z](./gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-A2000Z)
 - [Audio-Technica ATH-A900X](./gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-A900X)
-- [Audio-Technica ATH-A990Z](./ears-711_harman_over-ear_2018/Audio-Technica%20ATH-A990Z) ears-711
+- [Audio-Technica ATH-A990Z](./ears-711_harman_over-ear_2018/Audio-Technica%20ATH-A990Z) Ears-711
 - [Audio-Technica ATH-A990Z](./gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-A990Z)
 - [Audio-Technica ATH-AD1000X](./gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-AD1000X)
 - [Audio-Technica ATH-AD500X](./gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-AD500X)
@@ -218,7 +238,8 @@
 - [Audio-Technica ATH-AD900X](./gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-AD900X)
 - [Audio-Technica ATH-ADX5000 (Dekoni fenestrated sheepskin earpads)](./gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-ADX5000%20(Dekoni%20fenestrated%20sheepskin%20earpads))
 - [Audio-Technica ATH-ADX5000 (Yaxi A2000Z,AD2000X earpads)](./gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-ADX5000%20(Yaxi%20A2000Z,AD2000X%20earpads))
-- [Audio-Technica ATH-ADX5000](./ears-711_harman_over-ear_2018/Audio-Technica%20ATH-ADX5000) ears-711
+- [Audio-Technica ATH-ADX5000](./ears-711_harman_over-ear_2018/Audio-Technica%20ATH-ADX5000) Ears-711
+- [Audio-Technica ATH-ADX5000](./gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-ADX5000)
 - [Audio-Technica ATH-ANC300TW](./harman_in-ear_2019v2/Audio-Technica%20ATH-ANC300TW)
 - [Audio-Technica ATH-AWAS](./gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-AWAS)
 - [Audio-Technica ATH-AWKT](./gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-AWKT)
@@ -237,18 +258,18 @@
 - [Audio-Technica ATH-LS300](./harman_in-ear_2019v2/Audio-Technica%20ATH-LS300)
 - [Audio-Technica ATH-LS400](./harman_in-ear_2019v2/Audio-Technica%20ATH-LS400)
 - [Audio-Technica ATH-LS50](./harman_in-ear_2019v2/Audio-Technica%20ATH-LS50)
-- [Audio-Technica ATH-M30](./ears-711_harman_over-ear_2018/Audio-Technica%20ATH-M30) ears-711
-- [Audio-Technica ATH-M40](./ears-711_harman_over-ear_2018/Audio-Technica%20ATH-M40) ears-711
+- [Audio-Technica ATH-M30](./ears-711_harman_over-ear_2018/Audio-Technica%20ATH-M30) Ears-711
+- [Audio-Technica ATH-M40](./ears-711_harman_over-ear_2018/Audio-Technica%20ATH-M40) Ears-711
 - [Audio-Technica ATH-M40x](./gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-M40x)
-- [Audio-Technica ATH-M50x (sample 1)](./ears-711_harman_over-ear_2018/Audio-Technica%20ATH-M50x%20(sample%201)) ears-711
+- [Audio-Technica ATH-M50x (sample 1)](./ears-711_harman_over-ear_2018/Audio-Technica%20ATH-M50x%20(sample%201)) Ears-711
 - [Audio-Technica ATH-M50x (sample 1)](./gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-M50x%20(sample%201))
 - [Audio-Technica ATH-M50x (sample 2)](./gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-M50x%20(sample%202))
-- [Audio-Technica ATH-M50x](./ears-711_harman_over-ear_2018/Audio-Technica%20ATH-M50x) ears-711
+- [Audio-Technica ATH-M50x](./ears-711_harman_over-ear_2018/Audio-Technica%20ATH-M50x) Ears-711
 - [Audio-Technica ATH-M50x](./gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-M50x)
 - [Audio-Technica ATH-M50xBT](./gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-M50xBT)
 - [Audio-Technica ATH-M70x](./gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-M70x)
 - [Audio-Technica ATH-MSR7b](./gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-MSR7b)
-- [Audio-Technica ATH-R70x](./ears-711_harman_over-ear_2018/Audio-Technica%20ATH-R70x) ears-711
+- [Audio-Technica ATH-R70x](./ears-711_harman_over-ear_2018/Audio-Technica%20ATH-R70x) Ears-711
 - [Audio-Technica ATH-R70x](./gras_43ag-7_harman_over-ear_2018/Audio-Technica%20ATH-R70x)
 - [Audio-Technica ATH-SPORT7TW](./harman_in-ear_2019v2/Audio-Technica%20ATH-SPORT7TW)
 - [AudioQuest NightHawk](./gras_43ag-7_harman_over-ear_2018/AudioQuest%20NightHawk)
@@ -256,10 +277,15 @@
 - [Audiosense AQ7](./harman_in-ear_2019v2/Audiosense%20AQ7)
 - [Audiosense DT200](./harman_in-ear_2019v2/Audiosense%20DT200)
 - [Audiosense T800](./harman_in-ear_2019v2/Audiosense%20T800)
-- [Aur Audio Storm](./harman_in-ear_2019v2/Aur%20Audio%20Storm)
+- [AUNE Jasper](./harman_in-ear_2019v2/AUNE%20Jasper)
+- [Aure Audio Elixir](./harman_in-ear_2019v2/Aure%20Audio%20Elixir)
+- [Aure Audio Flame](./harman_in-ear_2019v2/Aure%20Audio%20Flame)
+- [Aure Audio Storm](./harman_in-ear_2019v2/Aure%20Audio%20Storm)
 - [Aurisonics Kicker](./harman_in-ear_2019v2/Aurisonics%20Kicker)
 - [AVIOT TE-D01b](./harman_in-ear_2019v2/AVIOT%20TE-D01b)
 - [AVIOT TE-D01d](./harman_in-ear_2019v2/AVIOT%20TE-D01d)
+- [Aya Siren](./harman_in-ear_2019v2/Aya%20Siren)
+- [Aya Trident](./harman_in-ear_2019v2/Aya%20Trident)
 - [AZLA 01R Mk2](./harman_in-ear_2019v2/AZLA%2001R%20Mk2)
 - [AZLA Horizon](./harman_in-ear_2019v2/AZLA%20Horizon)
 - [AZLA Orta](./harman_in-ear_2019v2/AZLA%20Orta)
@@ -300,8 +326,13 @@
 - [BGVP ES12 (off-on-off)](./harman_in-ear_2019v2/BGVP%20ES12%20(off-on-off))
 - [BGVP ES12 (on-off-off)](./harman_in-ear_2019v2/BGVP%20ES12%20(on-off-off))
 - [BGVP ES12 (on-on-on)](./harman_in-ear_2019v2/BGVP%20ES12%20(on-on-on))
+- [BGVP VG4 (off-off-off)](./harman_in-ear_2019v2/BGVP%20VG4%20(off-off-off))
+- [BGVP VG4 (off-off-on)](./harman_in-ear_2019v2/BGVP%20VG4%20(off-off-on))
+- [BGVP VG4 (off-on-off)](./harman_in-ear_2019v2/BGVP%20VG4%20(off-on-off))
+- [BGVP VG4 (on-off-off)](./harman_in-ear_2019v2/BGVP%20VG4%20(on-off-off))
+- [BGVP ZERO](./harman_in-ear_2019v2/BGVP%20ZERO)
 - [Big Bus Earbuds](./harman_in-ear_2019v2/Big%20Bus%20Earbuds)
-- [BLON B20](./ears-711_harman_over-ear_2018/BLON%20B20) ears-711
+- [BLON B20](./ears-711_harman_over-ear_2018/BLON%20B20) Ears-711
 - [BLON B20](./gras_43ag-7_harman_over-ear_2018/BLON%20B20)
 - [BLON BL-03 (sample 1)](./harman_in-ear_2019v2/BLON%20BL-03%20(sample%201))
 - [BLON BL-03 (sample 3)](./harman_in-ear_2019v2/BLON%20BL-03%20(sample%203))
@@ -328,7 +359,7 @@
 - [Campfire Audio Atlas (sample 1)](./harman_in-ear_2019v2/Campfire%20Audio%20Atlas%20(sample%201))
 - [Campfire Audio Atlas (sample 2)](./harman_in-ear_2019v2/Campfire%20Audio%20Atlas%20(sample%202))
 - [Campfire Audio Atlas](./harman_in-ear_2019v2/Campfire%20Audio%20Atlas)
-- [Campfire Audio Cascade](./ears-711_harman_over-ear_2018/Campfire%20Audio%20Cascade) ears-711
+- [Campfire Audio Cascade](./ears-711_harman_over-ear_2018/Campfire%20Audio%20Cascade) Ears-711
 - [Campfire Audio Cascade](./gras_43ag-7_harman_over-ear_2018/Campfire%20Audio%20Cascade)
 - [Campfire Audio Comet](./harman_in-ear_2019v2/Campfire%20Audio%20Comet)
 - [Campfire Audio Dorado 2020](./harman_in-ear_2019v2/Campfire%20Audio%20Dorado%202020)
@@ -363,6 +394,7 @@
 - [CCA C10](./harman_in-ear_2019v2/CCA%20C10)
 - [CCA C12](./harman_in-ear_2019v2/CCA%20C12)
 - [CCA C16](./harman_in-ear_2019v2/CCA%20C16)
+- [CCA CST](./harman_in-ear_2019v2/CCA%20CST)
 - [Clear Tune CT-200](./harman_in-ear_2019v2/Clear%20Tune%20CT-200)
 - [Clear Tune CT-300P](./harman_in-ear_2019v2/Clear%20Tune%20CT-300P)
 - [Clear Tune CT-500E (sample 1)](./harman_in-ear_2019v2/Clear%20Tune%20CT-500E%20(sample%201))
@@ -374,6 +406,7 @@
 - [Cozoy Trio](./harman_in-ear_2019v2/Cozoy%20Trio)
 - [Craft Ears Craft SIX (CIEM)](./harman_in-ear_2019v2/Craft%20Ears%20Craft%20SIX%20(CIEM))
 - [Craft Ears Craft SIX](./harman_in-ear_2019v2/Craft%20Ears%20Craft%20SIX)
+- [Craft Ears Craft TWO](./harman_in-ear_2019v2/Craft%20Ears%20Craft%20TWO)
 - [Creative Aurvana Trio](./harman_in-ear_2019v2/Creative%20Aurvana%20Trio)
 - [Custom Art Ei.3](./harman_in-ear_2019v2/Custom%20Art%20Ei.3)
 - [Custom Art FIBAE 1](./harman_in-ear_2019v2/Custom%20Art%20FIBAE%201)
@@ -387,6 +420,7 @@
 - [Custom Art Pro330v2](./harman_in-ear_2019v2/Custom%20Art%20Pro330v2)
 - [Daiso $2 earphones](./harman_in-ear_2019v2/Daiso%20$2%20earphones)
 - [Dan Clark Audio Aeon 2 Closed](./gras_43ag-7_harman_over-ear_2018/Dan%20Clark%20Audio%20Aeon%202%20Closed)
+- [Dan Clark Audio Aeon 2 Noire](./gras_43ag-7_harman_over-ear_2018/Dan%20Clark%20Audio%20Aeon%202%20Noire)
 - [Dan Clark Audio Aeon 2 Open](./gras_43ag-7_harman_over-ear_2018/Dan%20Clark%20Audio%20Aeon%202%20Open)
 - [Dan Clark Audio Aeon Flow Closed (black filter)](./gras_43ag-7_harman_over-ear_2018/Dan%20Clark%20Audio%20Aeon%20Flow%20Closed%20(black%20filter))
 - [Dan Clark Audio Aeon Flow Closed (white filter with one notch)](./gras_43ag-7_harman_over-ear_2018/Dan%20Clark%20Audio%20Aeon%20Flow%20Closed%20(white%20filter%20with%20one%20notch))
@@ -396,6 +430,7 @@
 - [Dan Clark Audio Ether C](./gras_43ag-7_harman_over-ear_2018/Dan%20Clark%20Audio%20Ether%20C)
 - [Dan Clark Audio Ether Flow 1.1](./gras_43ag-7_harman_over-ear_2018/Dan%20Clark%20Audio%20Ether%20Flow%201.1)
 - [Dan Clark Audio Voce](./gras_43ag-7_harman_over-ear_2018/Dan%20Clark%20Audio%20Voce)
+- [ddHiFi E2020A Janus](./harman_in-ear_2019v2/ddHiFi%20E2020A%20Janus)
 - [Delta Air complimentary earphones](./harman_in-ear_2019v2/Delta%20Air%20complimentary%20earphones)
 - [Denon AH-D5000](./gras_43ag-7_harman_over-ear_2018/Denon%20AH-D5000)
 - [Denon AH-D5200](./gras_43ag-7_harman_over-ear_2018/Denon%20AH-D5200)
@@ -417,8 +452,11 @@
 - [DUNU DN2000](./harman_in-ear_2019v2/DUNU%20DN2000)
 - [DUNU DN2002](./harman_in-ear_2019v2/DUNU%20DN2002)
 - [DUNU Luna](./harman_in-ear_2019v2/DUNU%20Luna)
+- [DUNU SA6 (atmospheric Immersion mode)](./harman_in-ear_2019v2/DUNU%20SA6%20(atmospheric%20Immersion%20mode))
+- [DUNU SA6 (default mode)](./harman_in-ear_2019v2/DUNU%20SA6%20(default%20mode))
 - [DUNU Titan 1](./harman_in-ear_2019v2/DUNU%20Titan%201)
 - [DUNU Titan 3](./harman_in-ear_2019v2/DUNU%20Titan%203)
+- [DUNU Zen](./harman_in-ear_2019v2/DUNU%20Zen)
 - [Dynamic Motion DM200H](./harman_in-ear_2019v2/Dynamic%20Motion%20DM200H)
 - [E-Mu Teak](./gras_43ag-7_harman_over-ear_2018/E-Mu%20Teak)
 - [E-Mu Walnut](./gras_43ag-7_harman_over-ear_2018/E-Mu%20Walnut)
@@ -485,6 +523,7 @@
 - [Empire Ears Wraith](./harman_in-ear_2019v2/Empire%20Ears%20Wraith)
 - [Empire Ears Zeus-R](./harman_in-ear_2019v2/Empire%20Ears%20Zeus-R)
 - [Empire Ears Zeus-XIV](./harman_in-ear_2019v2/Empire%20Ears%20Zeus-XIV)
+- [Empire Ears Zeus](./gras_43ag-7_harman_over-ear_2018/Empire%20Ears%20Zeus)
 - [Empire Ears Zeus](./harman_in-ear_2019v2/Empire%20Ears%20Zeus)
 - [Eternal Melody EM6W](./harman_in-ear_2019v2/Eternal%20Melody%20EM6W)
 - [Etymotic ER2SE](./harman_in-ear_2019v2/Etymotic%20ER2SE)
@@ -532,7 +571,7 @@
 - [Fidue A71](./harman_in-ear_2019v2/Fidue%20A71)
 - [Fidue A91 Sirius (CIEM)](./harman_in-ear_2019v2/Fidue%20A91%20Sirius%20(CIEM))
 - [Fidue A91 Sirius](./harman_in-ear_2019v2/Fidue%20A91%20Sirius)
-- [FiiO EH3](./ears-711_harman_over-ear_2018/FiiO%20EH3) ears-711
+- [FiiO EH3](./ears-711_harman_over-ear_2018/FiiO%20EH3) Ears-711
 - [FiiO EH3](./gras_43ag-7_harman_over-ear_2018/FiiO%20EH3)
 - [FiiO EH3](./harman_in-ear_2019v2/FiiO%20EH3)
 - [FiiO F3](./harman_in-ear_2019v2/FiiO%20F3)
@@ -541,6 +580,9 @@
 - [FiiO F9](./harman_in-ear_2019v2/FiiO%20F9)
 - [FiiO FA1](./harman_in-ear_2019v2/FiiO%20FA1)
 - [FiiO FA7](./harman_in-ear_2019v2/FiiO%20FA7)
+- [FiiO FA9](./harman_in-ear_2019v2/FiiO%20FA9)
+- [FiiO FD1](./harman_in-ear_2019v2/FiiO%20FD1)
+- [FiiO FD5](./harman_in-ear_2019v2/FiiO%20FD5)
 - [FiiO FH1](./harman_in-ear_2019v2/FiiO%20FH1)
 - [FiiO FH1s](./harman_in-ear_2019v2/FiiO%20FH1s)
 - [FiiO FH3](./harman_in-ear_2019v2/FiiO%20FH3)
@@ -548,12 +590,15 @@
 - [FiiO FH5 (sample 2)](./harman_in-ear_2019v2/FiiO%20FH5%20(sample%202))
 - [FiiO FH5](./harman_in-ear_2019v2/FiiO%20FH5)
 - [FiiO FH7](./harman_in-ear_2019v2/FiiO%20FH7)
+- [Final Audio A3000](./harman_in-ear_2019v2/Final%20Audio%20A3000)
+- [Final Audio A4000](./harman_in-ear_2019v2/Final%20Audio%20A4000)
 - [Final Audio A8000](./harman_in-ear_2019v2/Final%20Audio%20A8000)
 - [Final Audio B1](./harman_in-ear_2019v2/Final%20Audio%20B1)
 - [Final Audio B2](./harman_in-ear_2019v2/Final%20Audio%20B2)
 - [Final Audio B3](./harman_in-ear_2019v2/Final%20Audio%20B3)
 - [Final Audio D8000 Pro Edition](./gras_43ag-7_harman_over-ear_2018/Final%20Audio%20D8000%20Pro%20Edition)
-- [Final Audio D8000](./ears-711_harman_over-ear_2018/Final%20Audio%20D8000) ears-711
+- [Final Audio D8000](./ears-711_harman_over-ear_2018/Final%20Audio%20D8000) Ears-711
+- [Final Audio D8000](./gras_43ag-7_harman_over-ear_2018/Final%20Audio%20D8000)
 - [Final Audio E1000](./harman_in-ear_2019v2/Final%20Audio%20E1000)
 - [Final Audio E2000 (sample 1)](./harman_in-ear_2019v2/Final%20Audio%20E2000%20(sample%201))
 - [Final Audio E2000 (sample 2)](./harman_in-ear_2019v2/Final%20Audio%20E2000%20(sample%202))
@@ -633,28 +678,40 @@
 - [fix Bespoke Edition (Leneo)](./harman_in-ear_2019v2/fix%20Bespoke%20Edition%20(Leneo))
 - [fix Event Horizon](./harman_in-ear_2019v2/fix%20Event%20Horizon)
 - [Flicker Ear Norma](./harman_in-ear_2019v2/Flicker%20Ear%20Norma)
-- [Focal Clear](./ears-711_harman_over-ear_2018/Focal%20Clear) ears-711
+- [Focal Celestee](./gras_43ag-7_harman_over-ear_2018/Focal%20Celestee)
+- [Focal Clear (Focal Clear Mg earpads)](./gras_43ag-7_harman_over-ear_2018/Focal%20Clear%20(Focal%20Clear%20Mg%20earpads))
+- [Focal Clear Mg](./gras_43ag-7_harman_over-ear_2018/Focal%20Clear%20Mg)
+- [Focal Clear](./ears-711_harman_over-ear_2018/Focal%20Clear) Ears-711
 - [Focal Clear](./gras_43ag-7_harman_over-ear_2018/Focal%20Clear)
-- [Focal Elear (sample 1)](./ears-711_harman_over-ear_2018/Focal%20Elear%20(sample%201)) ears-711
+- [Focal Elear (sample 1)](./ears-711_harman_over-ear_2018/Focal%20Elear%20(sample%201)) Ears-711
 - [Focal Elear (sample 1)](./gras_43ag-7_harman_over-ear_2018/Focal%20Elear%20(sample%201))
 - [Focal Elear (sample 2)](./gras_43ag-7_harman_over-ear_2018/Focal%20Elear%20(sample%202))
 - [Focal Elear](./gras_43ag-7_harman_over-ear_2018/Focal%20Elear)
-- [Focal Elegia](./ears-711_harman_over-ear_2018/Focal%20Elegia) ears-711
+- [Focal Elegia](./ears-711_harman_over-ear_2018/Focal%20Elegia) Ears-711
 - [Focal Listen Professional](./gras_43ag-7_harman_over-ear_2018/Focal%20Listen%20Professional)
 - [Focal Radiance](./gras_43ag-7_harman_over-ear_2018/Focal%20Radiance)
 - [Focal Sphear](./harman_in-ear_2019v2/Focal%20Sphear)
-- [Focal Stellia](./ears-711_harman_over-ear_2018/Focal%20Stellia) ears-711
+- [Focal Stellia](./ears-711_harman_over-ear_2018/Focal%20Stellia) Ears-711
 - [Focal Stellia](./gras_43ag-7_harman_over-ear_2018/Focal%20Stellia)
-- [Focal Utopia (sample 1)](./ears-711_harman_over-ear_2018/Focal%20Utopia%20(sample%201)) ears-711
+- [Focal Utopia (sample 1)](./ears-711_harman_over-ear_2018/Focal%20Utopia%20(sample%201)) Ears-711
 - [Focal Utopia (sample 1)](./gras_43ag-7_harman_over-ear_2018/Focal%20Utopia%20(sample%201))
 - [Focal Utopia (sample 2)](./gras_43ag-7_harman_over-ear_2018/Focal%20Utopia%20(sample%202))
+- [Focal Utopia (sample 3)](./gras_43ag-7_harman_over-ear_2018/Focal%20Utopia%20(sample%203))
 - [Focal Utopia](./gras_43ag-7_harman_over-ear_2018/Focal%20Utopia)
+- [Fostex TH500 (worn earpads)](./gras_43ag-7_harman_over-ear_2018/Fostex%20TH500%20(worn%20earpads))
+- [Fostex TH610](./gras_43ag-7_harman_over-ear_2018/Fostex%20TH610)
+- [Fostex TH7](./gras_43ag-7_harman_over-ear_2018/Fostex%20TH7)
+- [Fostex TH900](./gras_43ag-7_harman_over-ear_2018/Fostex%20TH900)
+- [Fostex TH909](./gras_43ag-7_harman_over-ear_2018/Fostex%20TH909)
 - [Fostex TM2](./harman_in-ear_2019v2/Fostex%20TM2)
+- [Fostex TR-80](./gras_43ag-7_harman_over-ear_2018/Fostex%20TR-80)
 - [Future Sonics G10](./harman_in-ear_2019v2/Future%20Sonics%20G10)
 - [Future Sonics MG5HX](./harman_in-ear_2019v2/Future%20Sonics%20MG5HX)
 - [Geek Wold GK3](./harman_in-ear_2019v2/Geek%20Wold%20GK3)
 - [Gold Planar GL2000 (leather earpads)](./gras_43ag-7_harman_over-ear_2018/Gold%20Planar%20GL2000%20(leather%20earpads))
 - [Gold Planar GL2000 (perforated hybrid earpads)](./gras_43ag-7_harman_over-ear_2018/Gold%20Planar%20GL2000%20(perforated%20hybrid%20earpads))
+- [Gold Planar GL2000 double-sided (leather earpads)](./gras_43ag-7_harman_over-ear_2018/Gold%20Planar%20GL2000%20double-sided%20(leather%20earpads))
+- [Gold Planar GL2000 double-sided (perforated hybrid earpads)](./gras_43ag-7_harman_over-ear_2018/Gold%20Planar%20GL2000%20double-sided%20(perforated%20hybrid%20earpads))
 - [Gold Planar GL20](./harman_in-ear_2019v2/Gold%20Planar%20GL20)
 - [Gold Planar GL850](./gras_43ag-7_harman_over-ear_2018/Gold%20Planar%20GL850)
 - [Grado GR8](./harman_in-ear_2019v2/Grado%20GR8)
@@ -667,10 +724,10 @@
 - [Grado SR80e](./gras_43ag-7_harman_over-ear_2018/Grado%20SR80e)
 - [Grado The Hemp Headphone](./gras_43ag-7_harman_over-ear_2018/Grado%20The%20Hemp%20Headphone)
 - [Harman Kardon FLY ANC](./gras_43ag-7_harman_over-ear_2018/Harman%20Kardon%20FLY%20ANC)
-- [HarmonicDyne Helios](./ears-711_harman_over-ear_2018/HarmonicDyne%20Helios) ears-711
+- [HarmonicDyne Helios](./ears-711_harman_over-ear_2018/HarmonicDyne%20Helios) Ears-711
 - [HarmonicDyne Helios](./gras_43ag-7_harman_over-ear_2018/HarmonicDyne%20Helios)
 - [HEDD HEDDphone (sample 2)](./gras_43ag-7_harman_over-ear_2018/HEDD%20HEDDphone%20(sample%202))
-- [HEDD HEDDphone](./ears-711_harman_over-ear_2018/HEDD%20HEDDphone) ears-711
+- [HEDD HEDDphone](./ears-711_harman_over-ear_2018/HEDD%20HEDDphone) Ears-711
 - [HEDD HEDDphone](./gras_43ag-7_harman_over-ear_2018/HEDD%20HEDDphone)
 - [Heir Audio Tzar 350](./harman_in-ear_2019v2/Heir%20Audio%20Tzar%20350)
 - [HiBy WH3](./harman_in-ear_2019v2/HiBy%20WH3)
@@ -689,23 +746,31 @@
 - [Hidition Waltz](./harman_in-ear_2019v2/Hidition%20Waltz)
 - [Hidizs Mermaid MS4](./harman_in-ear_2019v2/Hidizs%20Mermaid%20MS4)
 - [HiFi Boy OS V3](./harman_in-ear_2019v2/HiFi%20Boy%20OS%20V3)
-- [HIFIMAN Ananda](./ears-711_harman_over-ear_2018/HIFIMAN%20Ananda) ears-711
+- [HIFIMAN Ananda](./ears-711_harman_over-ear_2018/HIFIMAN%20Ananda) Ears-711
 - [HIFIMAN Ananda](./gras_43ag-7_harman_over-ear_2018/HIFIMAN%20Ananda)
-- [HIFIMAN Arya](./ears-711_harman_over-ear_2018/HIFIMAN%20Arya) ears-711
+- [HIFIMAN Arya](./ears-711_harman_over-ear_2018/HIFIMAN%20Arya) Ears-711
 - [HIFIMAN Arya](./gras_43ag-7_harman_over-ear_2018/HIFIMAN%20Arya)
 - [HIFIMAN Deva (passive)](./gras_43ag-7_harman_over-ear_2018/HIFIMAN%20Deva%20(passive))
+- [HIFIMAN Edition X V2](./gras_43ag-7_harman_over-ear_2018/HIFIMAN%20Edition%20X%20V2)
 - [HIFIMAN HE1000 V2](./gras_43ag-7_harman_over-ear_2018/HIFIMAN%20HE1000%20V2)
-- [HIFIMAN HE1000](./ears-711_harman_over-ear_2018/HIFIMAN%20HE1000) ears-711
+- [HIFIMAN HE1000](./ears-711_harman_over-ear_2018/HIFIMAN%20HE1000) Ears-711
 - [HIFIMAN HE1000se](./gras_43ag-7_harman_over-ear_2018/HIFIMAN%20HE1000se)
 - [HIFIMAN HE400i 2016](./gras_43ag-7_harman_over-ear_2018/HIFIMAN%20HE400i%202016)
 - [HIFIMAN HE400i 2020](./gras_43ag-7_harman_over-ear_2018/HIFIMAN%20HE400i%202020)
+- [HIFIMAN HE560 V1 (sample 2)](./gras_43ag-7_harman_over-ear_2018/HIFIMAN%20HE560%20V1%20(sample%202))
 - [HIFIMAN HE560 V1](./gras_43ag-7_harman_over-ear_2018/HIFIMAN%20HE560%20V1)
-- [HIFIMAN HE5se](./ears-711_harman_over-ear_2018/HIFIMAN%20HE5se) ears-711
+- [HIFIMAN HE5se](./ears-711_harman_over-ear_2018/HIFIMAN%20HE5se) Ears-711
 - [HIFIMAN HE5se](./gras_43ag-7_harman_over-ear_2018/HIFIMAN%20HE5se)
 - [HIFIMAN HE6 (6-screw, velour earpads)](./gras_43ag-7_harman_over-ear_2018/HIFIMAN%20HE6%20(6-screw,%20velour%20earpads))
+- [HIFIMAN HE6se](./gras_43ag-7_harman_over-ear_2018/HIFIMAN%20HE6se)
+- [HIFIMAN Jade II](./gras_43ag-7_harman_over-ear_2018/HIFIMAN%20Jade%20II)
+- [HIFIMAN RE2000](./harman_in-ear_2019v2/HIFIMAN%20RE2000)
 - [HIFIMAN RE400](./harman_in-ear_2019v2/HIFIMAN%20RE400)
-- [HIFIMAN Sundara](./ears-711_harman_over-ear_2018/HIFIMAN%20Sundara) ears-711
+- [HIFIMAN RE800](./harman_in-ear_2019v2/HIFIMAN%20RE800)
+- [HIFIMAN Shangri-La Jr](./gras_43ag-7_harman_over-ear_2018/HIFIMAN%20Shangri-La%20Jr)
+- [HIFIMAN Sundara](./ears-711_harman_over-ear_2018/HIFIMAN%20Sundara) Ears-711
 - [HIFIMAN Sundara](./gras_43ag-7_harman_over-ear_2018/HIFIMAN%20Sundara)
+- [HIFIMAN Susvara](./gras_43ag-7_harman_over-ear_2018/HIFIMAN%20Susvara)
 - [HIFIMAN TWS600](./harman_in-ear_2019v2/HIFIMAN%20TWS600)
 - [Horluchs HL4300](./harman_in-ear_2019v2/Horluchs%20HL4300)
 - [HUM Dolores](./harman_in-ear_2019v2/HUM%20Dolores)
@@ -716,6 +781,7 @@
 - [HYLA CE-5 (sample 2)](./harman_in-ear_2019v2/HYLA%20CE-5%20(sample%202))
 - [HYLA CE-5](./harman_in-ear_2019v2/HYLA%20CE-5)
 - [HYLA Nerva X](./harman_in-ear_2019v2/HYLA%20Nerva%20X)
+- [HYLA Sarda](./harman_in-ear_2019v2/HYLA%20Sarda)
 - [HYLA TE-5B](./harman_in-ear_2019v2/HYLA%20TE-5B)
 - [HYLA TE-5T](./harman_in-ear_2019v2/HYLA%20TE-5T)
 - [I-INTO i8](./harman_in-ear_2019v2/I-INTO%20i8)
@@ -769,6 +835,7 @@
 - [IMR Acoustics RAH (red nozzle, red filter)](./harman_in-ear_2019v2/IMR%20Acoustics%20RAH%20(red%20nozzle,%20red%20filter))
 - [IMR Acoustics RAH (red nozzle, silver filter)](./harman_in-ear_2019v2/IMR%20Acoustics%20RAH%20(red%20nozzle,%20silver%20filter))
 - [IMR Acoustics RAH (silver nozzle, black filter)](./harman_in-ear_2019v2/IMR%20Acoustics%20RAH%20(silver%20nozzle,%20black%20filter))
+- [IMR Acoustics Semper (Pink nozzle with pink filter)](./harman_in-ear_2019v2/IMR%20Acoustics%20Semper%20(Pink%20nozzle%20with%20pink%20filter))
 - [IMR Acoustics Zenith (black)](./harman_in-ear_2019v2/IMR%20Acoustics%20Zenith%20(black))
 - [IMR Acoustics Zenith (blue)](./harman_in-ear_2019v2/IMR%20Acoustics%20Zenith%20(blue))
 - [IMR Acoustics Zenith (gold)](./harman_in-ear_2019v2/IMR%20Acoustics%20Zenith%20(gold))
@@ -809,6 +876,12 @@
 - [JH Audio Layla AION (2 o’clock)](./harman_in-ear_2019v2/JH%20Audio%20Layla%20AION%20(2%20o%E2%80%99clock))
 - [JH Audio Layla AION (max bass)](./harman_in-ear_2019v2/JH%20Audio%20Layla%20AION%20(max%20bass))
 - [JH Audio Layla AION (min bass)](./harman_in-ear_2019v2/JH%20Audio%20Layla%20AION%20(min%20bass))
+- [JH Audio Lola (2 o’clock)](./harman_in-ear_2019v2/JH%20Audio%20Lola%20(2%20o%E2%80%99clock))
+- [JH Audio Lola (max)](./harman_in-ear_2019v2/JH%20Audio%20Lola%20(max))
+- [JH Audio Lola (min)](./harman_in-ear_2019v2/JH%20Audio%20Lola%20(min))
+- [JH Audio Roxanne (2 o’clock)](./harman_in-ear_2019v2/JH%20Audio%20Roxanne%20(2%20o%E2%80%99clock))
+- [JH Audio Roxanne (max)](./harman_in-ear_2019v2/JH%20Audio%20Roxanne%20(max))
+- [JH Audio Roxanne (min)](./harman_in-ear_2019v2/JH%20Audio%20Roxanne%20(min))
 - [Jomo Audio Flamenco (bass)](./harman_in-ear_2019v2/Jomo%20Audio%20Flamenco%20(bass))
 - [Jomo Audio Flamenco (bass, treble) (sample 1)](./harman_in-ear_2019v2/Jomo%20Audio%20Flamenco%20(bass,%20treble)%20(sample%201))
 - [Jomo Audio Flamenco (bass, treble) (sample 2)](./harman_in-ear_2019v2/Jomo%20Audio%20Flamenco%20(bass,%20treble)%20(sample%202))
@@ -846,18 +919,21 @@
 - [Kennerton Odin Bog Oak](./gras_43ag-7_harman_over-ear_2018/Kennerton%20Odin%20Bog%20Oak)
 - [Kennerton Thror Bog Oak](./gras_43ag-7_harman_over-ear_2018/Kennerton%20Thror%20Bog%20Oak)
 - [Kinera Baldr](./harman_in-ear_2019v2/Kinera%20Baldr)
+- [Kinera BD005 Pro](./harman_in-ear_2019v2/Kinera%20BD005%20Pro)
 - [Kinera BD005](./harman_in-ear_2019v2/Kinera%20BD005)
 - [Kinera Freya](./harman_in-ear_2019v2/Kinera%20Freya)
 - [Kinera Idun (sample 1)](./harman_in-ear_2019v2/Kinera%20Idun%20(sample%201))
 - [Kinera Idun (sample 2)](./harman_in-ear_2019v2/Kinera%20Idun%20(sample%202))
 - [Kinera IDUN Deluxe](./harman_in-ear_2019v2/Kinera%20IDUN%20Deluxe)
 - [Kinera Idun](./harman_in-ear_2019v2/Kinera%20Idun)
+- [Kinera Nanna 2.0](./harman_in-ear_2019v2/Kinera%20Nanna%202.0)
 - [Kinera Nanna](./harman_in-ear_2019v2/Kinera%20Nanna)
 - [Kinera Odin](./harman_in-ear_2019v2/Kinera%20Odin)
 - [Kinera SEED](./harman_in-ear_2019v2/Kinera%20SEED)
 - [Kinera SIF](./harman_in-ear_2019v2/Kinera%20SIF)
 - [Klipsch Heritage HP-3](./gras_43ag-7_harman_over-ear_2018/Klipsch%20Heritage%20HP-3)
-- [Klipsch HP3](./ears-711_harman_over-ear_2018/Klipsch%20HP3) ears-711
+- [Klipsch HP3](./ears-711_harman_over-ear_2018/Klipsch%20HP3) Ears-711
+- [Klipsch HP3](./harman_in-ear_2019v2/Klipsch%20HP3)
 - [Klipsch T5 True Wireless](./harman_in-ear_2019v2/Klipsch%20T5%20True%20Wireless)
 - [Koss ESP95X](./gras_43ag-7_harman_over-ear_2018/Koss%20ESP95X)
 - [Koss KSC75](./gras_43ag-7_harman_over-ear_2018/Koss%20KSC75)
@@ -936,9 +1012,9 @@
 - [Lypertek Tevi](./harman_in-ear_2019v2/Lypertek%20Tevi)
 - [Magaosi K5](./harman_in-ear_2019v2/Magaosi%20K5)
 - [Mangird Tea](./harman_in-ear_2019v2/Mangird%20Tea)
-- [Massdrop Panda (active)](./ears-711_harman_over-ear_2018/Massdrop%20Panda%20(active)) ears-711
+- [Massdrop Panda (active)](./ears-711_harman_over-ear_2018/Massdrop%20Panda%20(active)) Ears-711
 - [Massdrop Panda (active)](./gras_43ag-7_harman_over-ear_2018/Massdrop%20Panda%20(active))
-- [Massdrop Panda (passive)](./ears-711_harman_over-ear_2018/Massdrop%20Panda%20(passive)) ears-711
+- [Massdrop Panda (passive)](./ears-711_harman_over-ear_2018/Massdrop%20Panda%20(passive)) Ears-711
 - [Massdrop Plus Universal IEM (sample 1)](./harman_in-ear_2019v2/Massdrop%20Plus%20Universal%20IEM%20(sample%201))
 - [Massdrop Plus Universal IEM (sample 2)](./harman_in-ear_2019v2/Massdrop%20Plus%20Universal%20IEM%20(sample%202))
 - [Massdrop Plus Universal IEM](./harman_in-ear_2019v2/Massdrop%20Plus%20Universal%20IEM)
@@ -953,9 +1029,10 @@
 - [Metal Magic Research Homunculus](./harman_in-ear_2019v2/Metal%20Magic%20Research%20Homunculus)
 - [Metal Magic Research Thummim](./harman_in-ear_2019v2/Metal%20Magic%20Research%20Thummim)
 - [Meze 12 Classics](./harman_in-ear_2019v2/Meze%2012%20Classics)
+- [Meze 99 Neo](./gras_43ag-7_harman_over-ear_2018/Meze%2099%20Neo)
 - [Meze Audio 99 Classic](./gras_43ag-7_harman_over-ear_2018/Meze%20Audio%2099%20Classic)
 - [Meze Empyrean (sample 2)](./gras_43ag-7_harman_over-ear_2018/Meze%20Empyrean%20(sample%202))
-- [Meze Empyrean](./ears-711_harman_over-ear_2018/Meze%20Empyrean) ears-711
+- [Meze Empyrean](./ears-711_harman_over-ear_2018/Meze%20Empyrean) Ears-711
 - [Meze Empyrean](./gras_43ag-7_harman_over-ear_2018/Meze%20Empyrean)
 - [Meze Rai Penta](./harman_in-ear_2019v2/Meze%20Rai%20Penta)
 - [Meze Rai Solo](./harman_in-ear_2019v2/Meze%20Rai%20Solo)
@@ -964,6 +1041,8 @@
 - [Mofasest M14 (10 setting)](./harman_in-ear_2019v2/Mofasest%20M14%20(10%20setting))
 - [Mofasest M14 (12 setting)](./harman_in-ear_2019v2/Mofasest%20M14%20(12%20setting))
 - [Moondrop A8](./harman_in-ear_2019v2/Moondrop%20A8)
+- [Moondrop Blessing 2 (sample 1)](./harman_in-ear_2019v2/Moondrop%20Blessing%202%20(sample%201))
+- [Moondrop Blessing 2 (sample 2)](./harman_in-ear_2019v2/Moondrop%20Blessing%202%20(sample%202))
 - [Moondrop Blessing 2](./harman_in-ear_2019v2/Moondrop%20Blessing%202)
 - [Moondrop Blessing](./harman_in-ear_2019v2/Moondrop%20Blessing)
 - [Moondrop Crescent](./harman_in-ear_2019v2/Moondrop%20Crescent)
@@ -971,13 +1050,16 @@
 - [Moondrop KXXS](./harman_in-ear_2019v2/Moondrop%20KXXS)
 - [Moondrop S8](./harman_in-ear_2019v2/Moondrop%20S8)
 - [Moondrop Spaceship](./harman_in-ear_2019v2/Moondrop%20Spaceship)
+- [Moondrop SSP](./harman_in-ear_2019v2/Moondrop%20SSP)
 - [Moondrop SSR](./harman_in-ear_2019v2/Moondrop%20SSR)
 - [Moondrop Starfield](./harman_in-ear_2019v2/Moondrop%20Starfield)
+- [Moondrop x Crinacle Blessing2 Dusk](./harman_in-ear_2019v2/Moondrop%20x%20Crinacle%20Blessing2%20Dusk)
 - [MUNITIO Billets](./harman_in-ear_2019v2/MUNITIO%20Billets)
 - [MUNITIO Bullet In-Ear](./harman_in-ear_2019v2/MUNITIO%20Bullet%20In-Ear)
 - [MySphere 3.2](./gras_43ag-7_harman_over-ear_2018/MySphere%203.2)
 - [NCM Bella](./harman_in-ear_2019v2/NCM%20Bella)
-- [Neumann NDH20](./ears-711_harman_over-ear_2018/Neumann%20NDH20) ears-711
+- [Nectar Hive](./gras_43ag-7_harman_over-ear_2018/Nectar%20Hive)
+- [Neumann NDH20](./ears-711_harman_over-ear_2018/Neumann%20NDH20) Ears-711
 - [Neumann NDH20](./gras_43ag-7_harman_over-ear_2018/Neumann%20NDH20)
 - [NF Audio NM2+](./harman_in-ear_2019v2/NF%20Audio%20NM2+)
 - [NiceHCK NX7 Mk3 (black)](./harman_in-ear_2019v2/NiceHCK%20NX7%20Mk3%20(black))
@@ -1030,6 +1112,7 @@
 - [Ocharaku Flat-4 Kaede Type 2](./harman_in-ear_2019v2/Ocharaku%20Flat-4%20Kaede%20Type%202)
 - [Ocharaku Flat-4 Ti Plus](./harman_in-ear_2019v2/Ocharaku%20Flat-4%20Ti%20Plus)
 - [Onkyo E900](./harman_in-ear_2019v2/Onkyo%20E900)
+- [Oppo PM3](./gras_43ag-7_harman_over-ear_2018/Oppo%20PM3)
 - [Origami Audio Silver](./harman_in-ear_2019v2/Origami%20Audio%20Silver)
 - [Oriolus Finschi Hifi](./harman_in-ear_2019v2/Oriolus%20Finschi%20Hifi)
 - [Oriolus Finschi](./harman_in-ear_2019v2/Oriolus%20Finschi)
@@ -1057,10 +1140,12 @@
 - [Periodic Audio Ti](./harman_in-ear_2019v2/Periodic%20Audio%20Ti)
 - [Philips SHP9500](./gras_43ag-7_harman_over-ear_2018/Philips%20SHP9500)
 - [Phonak PFE 232](./harman_in-ear_2019v2/Phonak%20PFE%20232)
+- [Pioneer Monitor 10](./gras_43ag-7_harman_over-ear_2018/Pioneer%20Monitor%2010)
 - [Pioneer SE-2P](./gras_43ag-7_harman_over-ear_2018/Pioneer%20SE-2P)
 - [Pioneer SE-CX9](./harman_in-ear_2019v2/Pioneer%20SE-CX9)
 - [Pioneer SE-Master1](./gras_43ag-7_harman_over-ear_2018/Pioneer%20SE-Master1)
 - [Precide ERGO 2](./gras_43ag-7_harman_over-ear_2018/Precide%20ERGO%202)
+- [Prisma Azul](./harman_in-ear_2019v2/Prisma%20Azul)
 - [QCY T5](./harman_in-ear_2019v2/QCY%20T5)
 - [qdc 3SH](./harman_in-ear_2019v2/qdc%203SH)
 - [qdc 4SS](./harman_in-ear_2019v2/qdc%204SS)
@@ -1087,9 +1172,14 @@
 - [qdc Gemini](./harman_in-ear_2019v2/qdc%20Gemini)
 - [qdc Neptune](./harman_in-ear_2019v2/qdc%20Neptune)
 - [qdc Uranus](./harman_in-ear_2019v2/qdc%20Uranus)
+- [QKZ VK4 (sample 1)](./harman_in-ear_2019v2/QKZ%20VK4%20(sample%201))
+- [QKZ VK4 (sample 2)](./harman_in-ear_2019v2/QKZ%20VK4%20(sample%202))
 - [QKZ VK4](./harman_in-ear_2019v2/QKZ%20VK4)
 - [QUAD Era-1](./gras_43ag-7_harman_over-ear_2018/QUAD%20Era-1)
+- [Queen of Audio Adonis](./harman_in-ear_2019v2/Queen%20of%20Audio%20Adonis)
 - [Queen of Audio Mojito](./harman_in-ear_2019v2/Queen%20of%20Audio%20Mojito)
+- [Queen of Audio Pink Lady (sample 1)](./harman_in-ear_2019v2/Queen%20of%20Audio%20Pink%20Lady%20(sample%201))
+- [Queen of Audio Pink Lady (sample 2)](./harman_in-ear_2019v2/Queen%20of%20Audio%20Pink%20Lady%20(sample%202))
 - [Queen of Audio Pink Lady](./harman_in-ear_2019v2/Queen%20of%20Audio%20Pink%20Lady)
 - [Queen of Audio QM50](./harman_in-ear_2019v2/Queen%20of%20Audio%20QM50)
 - [Queen of Audio Vesper](./harman_in-ear_2019v2/Queen%20of%20Audio%20Vesper)
@@ -1103,11 +1193,12 @@
 - [RHA T20i](./harman_in-ear_2019v2/RHA%20T20i)
 - [RHA TrueConnect](./harman_in-ear_2019v2/RHA%20TrueConnect)
 - [Rhapsodio Clipper](./harman_in-ear_2019v2/Rhapsodio%20Clipper)
+- [Rhapsodio Infinity Mk2](./harman_in-ear_2019v2/Rhapsodio%20Infinity%20Mk2)
 - [Rose BR5 Mk2](./harman_in-ear_2019v2/Rose%20BR5%20Mk2)
 - [Rose Mini2](./harman_in-ear_2019v2/Rose%20Mini2)
 - [Rosson Audio Design RAD-0](./gras_43ag-7_harman_over-ear_2018/Rosson%20Audio%20Design%20RAD-0)
 - [Samsung EO-IG955 (AKG)](./harman_in-ear_2019v2/Samsung%20EO-IG955%20(AKG))
-- [Samsung Galaxy Buds+](./harman_in-ear_2019v2/Samsung%20Galaxy%20Buds+)
+- [Samsung Galaxy Buds Pro](./harman_in-ear_2019v2/Samsung%20Galaxy%20Buds%20Pro)
 - [Samsung Galaxy Buds](./harman_in-ear_2019v2/Samsung%20Galaxy%20Buds)
 - [Sansui SS10](./gras_43ag-7_harman_over-ear_2018/Sansui%20SS10)
 - [SATOLEX Tubomi DH298-A1Bk](./harman_in-ear_2019v2/SATOLEX%20Tubomi%20DH298-A1Bk)
@@ -1115,7 +1206,10 @@
 - [SATOLEX Tubomi DH310-A1SS](./harman_in-ear_2019v2/SATOLEX%20Tubomi%20DH310-A1SS)
 - [SATOLEX Tumuri DH303-A1](./harman_in-ear_2019v2/SATOLEX%20Tumuri%20DH303-A1)
 - [Seahf AWK-009](./harman_in-ear_2019v2/Seahf%20AWK-009)
-- [Sendy Aiva](./ears-711_harman_over-ear_2018/Sendy%20Aiva) ears-711
+- [SeeAudio Kaguya](./harman_in-ear_2019v2/SeeAudio%20Kaguya)
+- [SeeAudio Neo](./harman_in-ear_2019v2/SeeAudio%20Neo)
+- [SeeAudio Yume](./harman_in-ear_2019v2/SeeAudio%20Yume)
+- [Sendy Aiva](./ears-711_harman_over-ear_2018/Sendy%20Aiva) Ears-711
 - [Sendy Aiya](./harman_in-ear_2019v2/Sendy%20Aiya)
 - [Senfer DT6](./harman_in-ear_2019v2/Senfer%20DT6)
 - [Sennheiser Amperior](./gras_43ag-7_harman_over-ear_2018/Sennheiser%20Amperior)
@@ -1125,8 +1219,9 @@
 - [Sennheiser HD 559](./gras_43ag-7_harman_over-ear_2018/Sennheiser%20HD%20559)
 - [Sennheiser HD 560S](./gras_43ag-7_harman_over-ear_2018/Sennheiser%20HD%20560S)
 - [Sennheiser HD 579](./gras_43ag-7_harman_over-ear_2018/Sennheiser%20HD%20579)
-- [Sennheiser HD 599](./ears-711_harman_over-ear_2018/Sennheiser%20HD%20599) ears-711
-- [Sennheiser HD 600 (sample 1)](./ears-711_harman_over-ear_2018/Sennheiser%20HD%20600%20(sample%201)) ears-711
+- [Sennheiser HD 599](./ears-711_harman_over-ear_2018/Sennheiser%20HD%20599) Ears-711
+- [Sennheiser HD 599](./gras_43ag-7_harman_over-ear_2018/Sennheiser%20HD%20599)
+- [Sennheiser HD 600 (sample 1)](./ears-711_harman_over-ear_2018/Sennheiser%20HD%20600%20(sample%201)) Ears-711
 - [Sennheiser HD 600 (sample 1)](./gras_43ag-7_harman_over-ear_2018/Sennheiser%20HD%20600%20(sample%201))
 - [Sennheiser HD 600 (sample 3)](./gras_43ag-7_harman_over-ear_2018/Sennheiser%20HD%20600%20(sample%203))
 - [Sennheiser HD 600 (semi-worn earpads) (sample 2)](./gras_43ag-7_harman_over-ear_2018/Sennheiser%20HD%20600%20(semi-worn%20earpads)%20(sample%202))
@@ -1138,23 +1233,25 @@
 - [Sennheiser HD 650 (worn earpads) (sample 1)](./gras_43ag-7_harman_over-ear_2018/Sennheiser%20HD%20650%20(worn%20earpads)%20(sample%201))
 - [Sennheiser HD 650 (worn earpads) (sample 2)](./gras_43ag-7_harman_over-ear_2018/Sennheiser%20HD%20650%20(worn%20earpads)%20(sample%202))
 - [Sennheiser HD 650 (worn earpads)](./gras_43ag-7_harman_over-ear_2018/Sennheiser%20HD%20650%20(worn%20earpads))
-- [Sennheiser HD 650](./ears-711_harman_over-ear_2018/Sennheiser%20HD%20650) ears-711
+- [Sennheiser HD 650](./ears-711_harman_over-ear_2018/Sennheiser%20HD%20650) Ears-711
 - [Sennheiser HD 650](./gras_43ag-7_harman_over-ear_2018/Sennheiser%20HD%20650)
-- [Sennheiser HD 660 S](./ears-711_harman_over-ear_2018/Sennheiser%20HD%20660%20S) ears-711
+- [Sennheiser HD 660 S](./ears-711_harman_over-ear_2018/Sennheiser%20HD%20660%20S) Ears-711
 - [Sennheiser HD 660 S](./gras_43ag-7_harman_over-ear_2018/Sennheiser%20HD%20660%20S)
-- [Sennheiser HD 800 (sample 1)](./ears-711_harman_over-ear_2018/Sennheiser%20HD%20800%20(sample%201)) ears-711
-- [Sennheiser HD 800 (sample 2)](./ears-711_harman_over-ear_2018/Sennheiser%20HD%20800%20(sample%202)) ears-711
+- [Sennheiser HD 800 (sample 1)](./ears-711_harman_over-ear_2018/Sennheiser%20HD%20800%20(sample%201)) Ears-711
+- [Sennheiser HD 800 (sample 1)](./harman_in-ear_2019v2/Sennheiser%20HD%20800%20(sample%201))
+- [Sennheiser HD 800 (sample 2)](./ears-711_harman_over-ear_2018/Sennheiser%20HD%20800%20(sample%202)) Ears-711
+- [Sennheiser HD 800 (sample 2)](./gras_43ag-7_harman_over-ear_2018/Sennheiser%20HD%20800%20(sample%202))
 - [Sennheiser HD 800 (sample 2)](./harman_in-ear_2019v2/Sennheiser%20HD%20800%20(sample%202))
-- [Sennheiser HD 800 (SDR mod) (sample 1)](./ears-711_harman_over-ear_2018/Sennheiser%20HD%20800%20(SDR%20mod)%20(sample%201)) ears-711
+- [Sennheiser HD 800 (SDR mod) (sample 1)](./ears-711_harman_over-ear_2018/Sennheiser%20HD%20800%20(SDR%20mod)%20(sample%201)) Ears-711
 - [Sennheiser HD 800 (SDR mod) (sample 1)](./gras_43ag-7_harman_over-ear_2018/Sennheiser%20HD%20800%20(SDR%20mod)%20(sample%201))
-- [Sennheiser HD 800 (SDR mod) (sample 2)](./ears-711_harman_over-ear_2018/Sennheiser%20HD%20800%20(SDR%20mod)%20(sample%202)) ears-711
+- [Sennheiser HD 800 (SDR mod) (sample 2)](./ears-711_harman_over-ear_2018/Sennheiser%20HD%20800%20(SDR%20mod)%20(sample%202)) Ears-711
 - [Sennheiser HD 800 (SDR mod) (sample 2)](./gras_43ag-7_harman_over-ear_2018/Sennheiser%20HD%20800%20(SDR%20mod)%20(sample%202))
-- [Sennheiser HD 800 (SDR mod)](./ears-711_harman_over-ear_2018/Sennheiser%20HD%20800%20(SDR%20mod)) ears-711
-- [Sennheiser HD 800 S](./ears-711_harman_over-ear_2018/Sennheiser%20HD%20800%20S) ears-711
+- [Sennheiser HD 800 S](./ears-711_harman_over-ear_2018/Sennheiser%20HD%20800%20S) Ears-711
 - [Sennheiser HD 800 S](./gras_43ag-7_harman_over-ear_2018/Sennheiser%20HD%20800%20S)
-- [Sennheiser HD 820](./ears-711_harman_over-ear_2018/Sennheiser%20HD%20820) ears-711
+- [Sennheiser HD 820](./ears-711_harman_over-ear_2018/Sennheiser%20HD%20820) Ears-711
 - [Sennheiser HD 820](./gras_43ag-7_harman_over-ear_2018/Sennheiser%20HD%20820)
 - [Sennheiser HE 1 Orpheus 2](./gras_43ag-7_harman_over-ear_2018/Sennheiser%20HE%201%20Orpheus%202)
+- [Sennheiser IE 300](./harman_in-ear_2019v2/Sennheiser%20IE%20300)
 - [Sennheiser IE 40 Pro](./harman_in-ear_2019v2/Sennheiser%20IE%2040%20Pro)
 - [Sennheiser IE 400 Pro](./harman_in-ear_2019v2/Sennheiser%20IE%20400%20Pro)
 - [Sennheiser IE 500 Pro](./harman_in-ear_2019v2/Sennheiser%20IE%20500%20Pro)
@@ -1224,6 +1321,7 @@
 - [Simgot Audio EN700 Pro](./harman_in-ear_2019v2/Simgot%20Audio%20EN700%20Pro)
 - [Simgot Audio EN700](./harman_in-ear_2019v2/Simgot%20Audio%20EN700)
 - [Singapore Airlines complimentary earphones](./harman_in-ear_2019v2/Singapore%20Airlines%20complimentary%20earphones)
+- [Sivga Audio Phoenix](./gras_43ag-7_harman_over-ear_2018/Sivga%20Audio%20Phoenix)
 - [Sonic Sonic](./harman_in-ear_2019v2/Sonic%20Sonic)
 - [Sony IER-M7](./harman_in-ear_2019v2/Sony%20IER-M7)
 - [Sony IER-M9 (no filter)](./harman_in-ear_2019v2/Sony%20IER-M9%20(no%20filter))
@@ -1239,18 +1337,20 @@
 - [Sony IER-Z1R (sample 6)](./harman_in-ear_2019v2/Sony%20IER-Z1R%20(sample%206))
 - [Sony IER-Z1R](./harman_in-ear_2019v2/Sony%20IER-Z1R)
 - [Sony MDR-1AM2](./gras_43ag-7_harman_over-ear_2018/Sony%20MDR-1AM2)
-- [Sony MDR-3](./ears-711_harman_over-ear_2018/Sony%20MDR-3) ears-711
+- [Sony MDR-3](./ears-711_harman_over-ear_2018/Sony%20MDR-3) Ears-711
+- [Sony MDR-3](./harman_in-ear_2019v2/Sony%20MDR-3)
 - [Sony MDR-7510](./gras_43ag-7_harman_over-ear_2018/Sony%20MDR-7510)
 - [Sony MDR-7550 (sample 1)](./harman_in-ear_2019v2/Sony%20MDR-7550%20(sample%201))
 - [Sony MDR-7550 (sample 2)](./harman_in-ear_2019v2/Sony%20MDR-7550%20(sample%202))
 - [Sony MDR-7550](./harman_in-ear_2019v2/Sony%20MDR-7550)
-- [Sony MDR-AS800](./ears-711_harman_over-ear_2018/Sony%20MDR-AS800) ears-711
+- [Sony MDR-AS800](./ears-711_harman_over-ear_2018/Sony%20MDR-AS800) Ears-711
 - [Sony MDR-AS800](./harman_in-ear_2019v2/Sony%20MDR-AS800)
-- [Sony MDR-CD2000](./ears-711_harman_over-ear_2018/Sony%20MDR-CD2000) ears-711
+- [Sony MDR-CD2000](./ears-711_harman_over-ear_2018/Sony%20MDR-CD2000) Ears-711
+- [Sony MDR-CD2000](./harman_in-ear_2019v2/Sony%20MDR-CD2000)
 - [Sony MDR-CD380](./gras_43ag-7_harman_over-ear_2018/Sony%20MDR-CD380)
 - [Sony MDR-CD900ST (Yaxi stPad microfiber earpads)](./gras_43ag-7_harman_over-ear_2018/Sony%20MDR-CD900ST%20(Yaxi%20stPad%20microfiber%20earpads))
 - [Sony MDR-CD900ST (Yaxi stPad2 earpads)](./gras_43ag-7_harman_over-ear_2018/Sony%20MDR-CD900ST%20(Yaxi%20stPad2%20earpads))
-- [Sony MDR-CD900ST](./ears-711_harman_over-ear_2018/Sony%20MDR-CD900ST) ears-711
+- [Sony MDR-CD900ST](./ears-711_harman_over-ear_2018/Sony%20MDR-CD900ST) Ears-711
 - [Sony MDR-CD900ST](./gras_43ag-7_harman_over-ear_2018/Sony%20MDR-CD900ST)
 - [Sony MDR-EX1000 (sample 1)](./harman_in-ear_2019v2/Sony%20MDR-EX1000%20(sample%201))
 - [Sony MDR-EX1000 (sample 2)](./harman_in-ear_2019v2/Sony%20MDR-EX1000%20(sample%202))
@@ -1266,7 +1366,7 @@
 - [Sony MDR-M1ST](./gras_43ag-7_harman_over-ear_2018/Sony%20MDR-M1ST)
 - [Sony MDR-MA900](./gras_43ag-7_harman_over-ear_2018/Sony%20MDR-MA900)
 - [Sony MDR-V6](./gras_43ag-7_harman_over-ear_2018/Sony%20MDR-V6)
-- [Sony MDR-Z1R](./ears-711_harman_over-ear_2018/Sony%20MDR-Z1R) ears-711
+- [Sony MDR-Z1R](./ears-711_harman_over-ear_2018/Sony%20MDR-Z1R) Ears-711
 - [Sony MDR-Z1R](./gras_43ag-7_harman_over-ear_2018/Sony%20MDR-Z1R)
 - [Sony MDR-Z7M2](./gras_43ag-7_harman_over-ear_2018/Sony%20MDR-Z7M2)
 - [Sony MH750](./harman_in-ear_2019v2/Sony%20MH750)
@@ -1280,7 +1380,7 @@
 - [Sony WF-1000XM3](./harman_in-ear_2019v2/Sony%20WF-1000XM3)
 - [Sony WH-1000XM4](./gras_43ag-7_harman_over-ear_2018/Sony%20WH-1000XM4)
 - [Sony XBA-300](./harman_in-ear_2019v2/Sony%20XBA-300)
-- [Sony XBA-40](./ears-711_harman_over-ear_2018/Sony%20XBA-40) ears-711
+- [Sony XBA-40](./ears-711_harman_over-ear_2018/Sony%20XBA-40) Ears-711
 - [Sony XBA-40](./harman_in-ear_2019v2/Sony%20XBA-40)
 - [Sony XBA-A3 (modded)](./harman_in-ear_2019v2/Sony%20XBA-A3%20(modded))
 - [Sony XBA-A3 (sample 1)](./harman_in-ear_2019v2/Sony%20XBA-A3%20(sample%201))
@@ -1289,6 +1389,9 @@
 - [Sony XBA-H3](./harman_in-ear_2019v2/Sony%20XBA-H3)
 - [Sony XBA-N3AP](./harman_in-ear_2019v2/Sony%20XBA-N3AP)
 - [Sony XBA-Z5](./harman_in-ear_2019v2/Sony%20XBA-Z5)
+- [Soranik Bastille-R](./harman_in-ear_2019v2/Soranik%20Bastille-R)
+- [Soranik Bastille-V](./harman_in-ear_2019v2/Soranik%20Bastille-V)
+- [Soranik ION-4 (Vietnamese domestic market edition)](./harman_in-ear_2019v2/Soranik%20ION-4%20(Vietnamese%20domestic%20market%20edition))
 - [Soranik SK3](./harman_in-ear_2019v2/Soranik%20SK3)
 - [Soranik SP3 SE](./harman_in-ear_2019v2/Soranik%20SP3%20SE)
 - [Soranik SP3](./harman_in-ear_2019v2/Soranik%20SP3)
@@ -1305,10 +1408,10 @@
 - [Stax SR-001 Mk2](./harman_in-ear_2019v2/Stax%20SR-001%20Mk2)
 - [Stax SR-002](./harman_in-ear_2019v2/Stax%20SR-002)
 - [Stax SR-007 Mk2.5](./gras_43ag-7_harman_over-ear_2018/Stax%20SR-007%20Mk2.5)
-- [Stax SR-007](./ears-711_harman_over-ear_2018/Stax%20SR-007) ears-711
-- [Stax SR-009](./ears-711_harman_over-ear_2018/Stax%20SR-009) ears-711
+- [Stax SR-007](./ears-711_harman_over-ear_2018/Stax%20SR-007) Ears-711
+- [Stax SR-009](./ears-711_harman_over-ear_2018/Stax%20SR-009) Ears-711
 - [Stax SR-009](./gras_43ag-7_harman_over-ear_2018/Stax%20SR-009)
-- [Stax SR-009S](./ears-711_harman_over-ear_2018/Stax%20SR-009S) ears-711
+- [Stax SR-009S](./ears-711_harman_over-ear_2018/Stax%20SR-009S) Ears-711
 - [Stax SR-009S](./gras_43ag-7_harman_over-ear_2018/Stax%20SR-009S)
 - [Stax SR-3](./gras_43ag-7_harman_over-ear_2018/Stax%20SR-3)
 - [Stax SR-404 Limited](./gras_43ag-7_harman_over-ear_2018/Stax%20SR-404%20Limited)
@@ -1316,18 +1419,18 @@
 - [Stax SR-4070](./gras_43ag-7_harman_over-ear_2018/Stax%20SR-4070)
 - [Stax SR-40](./gras_43ag-7_harman_over-ear_2018/Stax%20SR-40)
 - [Stax SR-84](./gras_43ag-7_harman_over-ear_2018/Stax%20SR-84)
-- [Stax SR-L300 (sample 1)](./ears-711_harman_over-ear_2018/Stax%20SR-L300%20(sample%201)) ears-711
+- [Stax SR-L300 (sample 1)](./ears-711_harman_over-ear_2018/Stax%20SR-L300%20(sample%201)) Ears-711
 - [Stax SR-L300 (sample 1)](./gras_43ag-7_harman_over-ear_2018/Stax%20SR-L300%20(sample%201))
 - [Stax SR-L300 (sample 2)](./gras_43ag-7_harman_over-ear_2018/Stax%20SR-L300%20(sample%202))
 - [Stax SR-L300 Limited](./gras_43ag-7_harman_over-ear_2018/Stax%20SR-L300%20Limited)
 - [Stax SR-L300](./gras_43ag-7_harman_over-ear_2018/Stax%20SR-L300)
-- [Stax SR-L500 (sample 1)](./ears-711_harman_over-ear_2018/Stax%20SR-L500%20(sample%201)) ears-711
+- [Stax SR-L500 (sample 1)](./ears-711_harman_over-ear_2018/Stax%20SR-L500%20(sample%201)) Ears-711
 - [Stax SR-L500 (sample 1)](./gras_43ag-7_harman_over-ear_2018/Stax%20SR-L500%20(sample%201))
 - [Stax SR-L500 (sample 2)](./gras_43ag-7_harman_over-ear_2018/Stax%20SR-L500%20(sample%202))
 - [Stax SR-L500](./gras_43ag-7_harman_over-ear_2018/Stax%20SR-L500)
 - [Stax SR-L700 (sample 1)](./gras_43ag-7_harman_over-ear_2018/Stax%20SR-L700%20(sample%201))
 - [Stax SR-L700 (sample 2)](./gras_43ag-7_harman_over-ear_2018/Stax%20SR-L700%20(sample%202))
-- [Stax SR-L700](./ears-711_harman_over-ear_2018/Stax%20SR-L700) ears-711
+- [Stax SR-L700](./ears-711_harman_over-ear_2018/Stax%20SR-L700) Ears-711
 - [Stax SR-L700](./gras_43ag-7_harman_over-ear_2018/Stax%20SR-L700)
 - [Stax SR-Lambda Pro](./gras_43ag-7_harman_over-ear_2018/Stax%20SR-Lambda%20Pro)
 - [Stax SR-X Mk2](./gras_43ag-7_harman_over-ear_2018/Stax%20SR-X%20Mk2)
@@ -1339,6 +1442,7 @@
 - [Symphonium Audio Aurora](./harman_in-ear_2019v2/Symphonium%20Audio%20Aurora)
 - [Symphonium Audio Mirage](./harman_in-ear_2019v2/Symphonium%20Audio%20Mirage)
 - [Tanchjim Cora](./harman_in-ear_2019v2/Tanchjim%20Cora)
+- [Tanchjim Darling](./harman_in-ear_2019v2/Tanchjim%20Darling)
 - [Tanchjim Hana](./harman_in-ear_2019v2/Tanchjim%20Hana)
 - [Tanchjim Oxygen](./harman_in-ear_2019v2/Tanchjim%20Oxygen)
 - [Tansio Mirai TSMR-12 (off-off-on)](./harman_in-ear_2019v2/Tansio%20Mirai%20TSMR-12%20(off-off-on))
@@ -1379,13 +1483,17 @@
 - [ThieAudio Clairvoyance](./harman_in-ear_2019v2/ThieAudio%20Clairvoyance)
 - [ThieAudio Legacy 3 (00 setting)](./harman_in-ear_2019v2/ThieAudio%20Legacy%203%20(00%20setting))
 - [ThieAudio Legacy 3 (02 setting)](./harman_in-ear_2019v2/ThieAudio%20Legacy%203%20(02%20setting))
-- [ThieAudio Legacy 3 (10 setting)](./ears-711_harman_over-ear_2018/ThieAudio%20Legacy%203%20(10%20setting)) ears-711
+- [ThieAudio Legacy 3 (10 setting)](./ears-711_harman_over-ear_2018/ThieAudio%20Legacy%203%20(10%20setting)) Ears-711
 - [ThieAudio Legacy 3 (10 setting)](./harman_in-ear_2019v2/ThieAudio%20Legacy%203%20(10%20setting))
 - [ThieAudio Legacy 3 (12 setting)](./harman_in-ear_2019v2/ThieAudio%20Legacy%203%20(12%20setting))
 - [ThieAudio Legacy 3 (CIEM, 00 setting)](./harman_in-ear_2019v2/ThieAudio%20Legacy%203%20(CIEM,%2000%20setting))
 - [ThieAudio Legacy 3 (CIEM, 02 setting)](./harman_in-ear_2019v2/ThieAudio%20Legacy%203%20(CIEM,%2002%20setting))
 - [ThieAudio Legacy 3 (CIEM, 10 setting)](./harman_in-ear_2019v2/ThieAudio%20Legacy%203%20(CIEM,%2010%20setting))
 - [ThieAudio Legacy 3 (CIEM, 12 setting)](./harman_in-ear_2019v2/ThieAudio%20Legacy%203%20(CIEM,%2012%20setting))
+- [ThieAudio Legacy 4 (off-off)](./harman_in-ear_2019v2/ThieAudio%20Legacy%204%20(off-off))
+- [ThieAudio Legacy 4 (off-on)](./harman_in-ear_2019v2/ThieAudio%20Legacy%204%20(off-on))
+- [ThieAudio Legacy 4 (on-off)](./harman_in-ear_2019v2/ThieAudio%20Legacy%204%20(on-off))
+- [ThieAudio Legacy 4 (on-on)](./harman_in-ear_2019v2/ThieAudio%20Legacy%204%20(on-on))
 - [ThieAudio Legacy 5](./harman_in-ear_2019v2/ThieAudio%20Legacy%205)
 - [ThieAudio Legacy 9](./harman_in-ear_2019v2/ThieAudio%20Legacy%209)
 - [ThieAudio Monarch (100 ohm resistor)](./harman_in-ear_2019v2/ThieAudio%20Monarch%20(100%20ohm%20resistor))
@@ -1412,6 +1520,7 @@
 - [Tin HiFi T4](./harman_in-ear_2019v2/Tin%20HiFi%20T4)
 - [Tin HiFi TWS2000](./harman_in-ear_2019v2/Tin%20HiFi%20TWS2000)
 - [Tipsy Dunmer Pro](./harman_in-ear_2019v2/Tipsy%20Dunmer%20Pro)
+- [Tralucent Audio 1+X plus](./harman_in-ear_2019v2/Tralucent%20Audio%201+X%20plus)
 - [Tralucent Audio 1Plus1.2](./harman_in-ear_2019v2/Tralucent%20Audio%201Plus1.2)
 - [Tralucent Audio 1Plus2.3](./harman_in-ear_2019v2/Tralucent%20Audio%201Plus2.3)
 - [Tralucent Audio 1Plus5.2](./harman_in-ear_2019v2/Tralucent%20Audio%201Plus5.2)
@@ -1431,10 +1540,12 @@
 - [Ultimate Ears UE18+ (sample 3)](./harman_in-ear_2019v2/Ultimate%20Ears%20UE18+%20(sample%203))
 - [Ultimate Ears UE18+ 3rd Gen](./harman_in-ear_2019v2/Ultimate%20Ears%20UE18+%203rd%20Gen)
 - [Ultimate Ears UE18+](./harman_in-ear_2019v2/Ultimate%20Ears%20UE18+)
+- [Ultimate Ears UE4 Pro](./harman_in-ear_2019v2/Ultimate%20Ears%20UE4%20Pro)
 - [Ultimate Ears UE5](./harman_in-ear_2019v2/Ultimate%20Ears%20UE5)
 - [Ultimate Ears UE6](./harman_in-ear_2019v2/Ultimate%20Ears%20UE6)
 - [Ultimate Ears UE7](./harman_in-ear_2019v2/Ultimate%20Ears%20UE7)
 - [Ultimate Ears UE900S](./harman_in-ear_2019v2/Ultimate%20Ears%20UE900S)
+- [Unique Melody 2HT Terminator](./harman_in-ear_2019v2/Unique%20Melody%202HT%20Terminator)
 - [Unique Melody 3DD-Ti Open](./harman_in-ear_2019v2/Unique%20Melody%203DD-Ti%20Open)
 - [Unique Melody 3DD-Ti](./harman_in-ear_2019v2/Unique%20Melody%203DD-Ti)
 - [Unique Melody 3X](./harman_in-ear_2019v2/Unique%20Melody%203X)
@@ -1464,7 +1575,7 @@
 - [Venture Electronics Duke (CIEM)](./harman_in-ear_2019v2/Venture%20Electronics%20Duke%20(CIEM))
 - [Venture Electronics Monk IE Biggie](./harman_in-ear_2019v2/Venture%20Electronics%20Monk%20IE%20Biggie)
 - [Venture Electronics Monk IE Smalls](./harman_in-ear_2019v2/Venture%20Electronics%20Monk%20IE%20Smalls)
-- [Verum One](./ears-711_harman_over-ear_2018/Verum%20One) ears-711
+- [Verum One](./ears-711_harman_over-ear_2018/Verum%20One) Ears-711
 - [violator73 DIY 16 BA](./harman_in-ear_2019v2/violator73%20DIY%2016%20BA)
 - [Vision Ears Elysium](./harman_in-ear_2019v2/Vision%20Ears%20Elysium)
 - [Vision Ears Erlkönig 1](./harman_in-ear_2019v2/Vision%20Ears%20Erlk%C3%B6nig%201)
@@ -1512,7 +1623,10 @@
 - [Whizzer A-HE03 Kylin](./harman_in-ear_2019v2/Whizzer%20A-HE03%20Kylin)
 - [Whizzer A15 Pro](./harman_in-ear_2019v2/Whizzer%20A15%20Pro)
 - [Whizzer A15](./harman_in-ear_2019v2/Whizzer%20A15)
+- [Whizzer HE01](./harman_in-ear_2019v2/Whizzer%20HE01)
 - [Yamaha EPH-100](./harman_in-ear_2019v2/Yamaha%20EPH-100)
+- [Yamaha HP-300](./gras_43ag-7_harman_over-ear_2018/Yamaha%20HP-300)
+- [Yamaha HP-50S](./gras_43ag-7_harman_over-ear_2018/Yamaha%20HP-50S)
 - [Yinyoo Ash](./harman_in-ear_2019v2/Yinyoo%20Ash)
 - [Yinyoo Topaz (no filter)](./harman_in-ear_2019v2/Yinyoo%20Topaz%20(no%20filter))
 - [Zero Audio Carbo Basso ZH-DX210-CB](./harman_in-ear_2019v2/Zero%20Audio%20Carbo%20Basso%20ZH-DX210-CB)
@@ -1520,21 +1634,22 @@
 - [Zero Audio Carbo Singolo ZH-BS150-CS](./harman_in-ear_2019v2/Zero%20Audio%20Carbo%20Singolo%20ZH-BS150-CS)
 - [Zero Audio Carbo Tenore](./harman_in-ear_2019v2/Zero%20Audio%20Carbo%20Tenore)
 - [Zero Audio Duoza ZH-DWX10](./harman_in-ear_2019v2/Zero%20Audio%20Duoza%20ZH-DWX10)
-- [ZMF Aeolus (universal perforated earpads)](./ears-711_harman_over-ear_2018/ZMF%20Aeolus%20(universal%20perforated%20earpads)) ears-711
+- [ZMF Aeolus (universal perforated earpads)](./ears-711_harman_over-ear_2018/ZMF%20Aeolus%20(universal%20perforated%20earpads)) Ears-711
 - [ZMF Aeolus (universal perforated suede earpads)](./gras_43ag-7_harman_over-ear_2018/ZMF%20Aeolus%20(universal%20perforated%20suede%20earpads))
-- [ZMF Aeolus](./ears-711_harman_over-ear_2018/ZMF%20Aeolus) ears-711
+- [ZMF Aeolus](./ears-711_harman_over-ear_2018/ZMF%20Aeolus) Ears-711
 - [ZMF Atticus (Eikon suede earpads)](./gras_43ag-7_harman_over-ear_2018/ZMF%20Atticus%20(Eikon%20suede%20earpads))
-- [ZMF Atticus](./ears-711_harman_over-ear_2018/ZMF%20Atticus) ears-711
+- [ZMF Atticus](./ears-711_harman_over-ear_2018/ZMF%20Atticus) Ears-711
 - [ZMF Auteur (perforated Auteur lambskin earpads)](./gras_43ag-7_harman_over-ear_2018/ZMF%20Auteur%20(perforated%20Auteur%20lambskin%20earpads))
-- [ZMF Auteur Blackwood (universal perforated earpads)](./ears-711_harman_over-ear_2018/ZMF%20Auteur%20Blackwood%20(universal%20perforated%20earpads)) ears-711
-- [ZMF Auteur Blackwood](./ears-711_harman_over-ear_2018/ZMF%20Auteur%20Blackwood) ears-711
-- [ZMF Auteur Cocobolo](./ears-711_harman_over-ear_2018/ZMF%20Auteur%20Cocobolo) ears-711
-- [ZMF Auteur Teak](./ears-711_harman_over-ear_2018/ZMF%20Auteur%20Teak) ears-711
+- [ZMF Auteur Blackwood (universal perforated earpads)](./ears-711_harman_over-ear_2018/ZMF%20Auteur%20Blackwood%20(universal%20perforated%20earpads)) Ears-711
+- [ZMF Auteur Blackwood](./ears-711_harman_over-ear_2018/ZMF%20Auteur%20Blackwood) Ears-711
+- [ZMF Auteur Cocobolo](./ears-711_harman_over-ear_2018/ZMF%20Auteur%20Cocobolo) Ears-711
+- [ZMF Auteur Teak](./ears-711_harman_over-ear_2018/ZMF%20Auteur%20Teak) Ears-711
 - [ZMF Eikon (Eikon lambskin earpads)](./gras_43ag-7_harman_over-ear_2018/ZMF%20Eikon%20(Eikon%20lambskin%20earpads))
-- [ZMF Eikon](./ears-711_harman_over-ear_2018/ZMF%20Eikon) ears-711
+- [ZMF Eikon](./ears-711_harman_over-ear_2018/ZMF%20Eikon) Ears-711
 - [ZMF Verite (perforated hybid BE2 earpads)](./gras_43ag-7_harman_over-ear_2018/ZMF%20Verite%20(perforated%20hybid%20BE2%20earpads))
 - [ZMF Verite (perforated Verite lambskin earpads)](./gras_43ag-7_harman_over-ear_2018/ZMF%20Verite%20(perforated%20Verite%20lambskin%20earpads))
 - [ZMF Verite Closed (Auteur lambskin earpads)](./gras_43ag-7_harman_over-ear_2018/ZMF%20Verite%20Closed%20(Auteur%20lambskin%20earpads))
 - [ZMF Verite Closed (hybrid Universe earpads)](./gras_43ag-7_harman_over-ear_2018/ZMF%20Verite%20Closed%20(hybrid%20Universe%20earpads))
-- [ZMF Verite Closed](./ears-711_harman_over-ear_2018/ZMF%20Verite%20Closed) ears-711
-- [ZMF Verite](./ears-711_harman_over-ear_2018/ZMF%20Verite) ears-711
+- [ZMF Verite Closed](./ears-711_harman_over-ear_2018/ZMF%20Verite%20Closed) Ears-711
+- [ZMF Verite](./ears-711_harman_over-ear_2018/ZMF%20Verite) Ears-711
+- [ZMF Verite](./harman_in-ear_2019v2/ZMF%20Verite)
